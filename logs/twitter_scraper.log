@@ -1,0 +1,268 @@
+2025-04-28 16:58:13,619 INFO: package: mysql.connector.plugins
+2025-04-28 16:58:13,620 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:58:13,620 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:58:13,635 INFO: Starting Forum_1 at page 1590
+2025-04-28 16:58:14,657 INFO: Skipping duplicate post: post58960898
+2025-04-28 16:58:14,658 INFO: Skipping duplicate post: post58962520
+2025-04-28 16:58:14,658 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 16:58:14,666 INFO: Starting Forum_2 at page 35
+2025-04-28 16:58:16,991 INFO: Skipping duplicate post: post58739824
+2025-04-28 16:58:16,995 INFO: Skipping duplicate post: post58739841
+2025-04-28 16:58:16,996 INFO: Skipping duplicate post: post58756598
+2025-04-28 16:58:16,996 INFO: Skipping duplicate post: post58756861
+2025-04-28 16:58:16,997 INFO: Skipping duplicate post: post58756972
+2025-04-28 16:58:16,997 INFO: Skipping duplicate post: post58757347
+2025-04-28 16:58:16,998 INFO: Skipping duplicate post: post58759310
+2025-04-28 16:58:16,999 INFO: Skipping duplicate post: post58759495
+2025-04-28 16:58:16,999 INFO: Skipping duplicate post: post58780300
+2025-04-28 16:58:17,000 INFO: Skipping duplicate post: post58780541
+2025-04-28 16:58:17,000 INFO: Skipping duplicate post: post58846992
+2025-04-28 16:58:17,001 INFO: Skipping duplicate post: post58847773
+2025-04-28 16:58:17,001 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 16:58:17,002 INFO: Starting Twitter scraper
+2025-04-28 16:58:17,116 INFO: Fetching tweets from 2025-04-21T22:58:17Z to 2025-04-28T22:57:17Z
+2025-04-28 17:01:06,834 INFO: package: mysql.connector.plugins
+2025-04-28 17:01:06,835 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:01:06,836 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:01:06,854 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:01:07,872 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:01:07,873 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:01:07,873 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:01:07,881 INFO: Starting Forum_2 at page 35
+2025-04-28 17:01:09,022 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:01:09,023 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:01:09,023 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:01:09,024 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:01:09,024 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:01:09,025 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:01:09,026 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:01:09,027 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:01:09,028 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:01:09,028 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:01:09,029 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:01:09,030 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:01:09,030 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:01:09,031 INFO: Starting Twitter scraper
+2025-04-28 17:01:09,166 INFO: Fetching tweets from 2025-04-21T23:01:09Z to 2025-04-28T23:00:09Z
+2025-04-28 17:03:18,882 INFO: package: mysql.connector.plugins
+2025-04-28 17:03:18,882 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:03:18,883 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:03:18,897 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:03:19,877 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:03:19,877 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:03:19,878 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:03:19,887 INFO: Starting Forum_2 at page 35
+2025-04-28 17:03:29,549 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:03:29,550 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:03:29,551 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:03:29,551 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:03:29,552 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:03:29,553 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:03:29,553 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:03:29,554 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:03:29,554 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:03:29,555 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:03:29,556 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:03:29,556 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:03:29,557 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:03:29,557 INFO: Starting Twitter scraper
+2025-04-28 17:03:29,692 INFO: Fetching tweets from 2025-04-21T23:03:29Z to 2025-04-28T23:02:29Z
+2025-04-28 17:03:30,216 INFO: Skipping tweet 1916965869462192221: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916631855014572364: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916618634329460760: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916611065187877182: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916610528299929667: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916608053035626698: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916575847483326772: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916575531597959341: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916575090231115843: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916574414713299013: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916574070474211448: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916573736741884044: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916573262982549989: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916571152933069273: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916568508109906109: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916564288765837480: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916557757588570195: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916555944042901702: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916555850325373436: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916554266577187256: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916554075472089245: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916551197873369504: missing author_id
+2025-04-28 17:03:30,225 INFO: Skipping tweet 1916547581968109971: missing author_id
+2025-04-28 17:03:30,225 INFO: Skipping tweet 1916547408005054784: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546898678223155: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546337803296969: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546025138926017: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916545204653326770: missing author_id
+2025-04-28 17:03:30,227 INFO: Skipping tweet 1916544474651537622: missing author_id
+2025-04-28 17:03:30,227 INFO: Skipping tweet 1916544351146061913: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916544162486276448: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916543945359733167: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916536136471597535: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916534913748111524: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916533138542518484: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916530660124020965: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916523104995623023: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916503741878145450: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916477873050767752: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916304180102176797: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916286088450101595: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916262634401263819: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1915959919984996584: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1915885614773530767: missing author_id
+2025-04-28 17:03:30,231 INFO: Skipping tweet 1915743555311525944: missing author_id
+2025-04-28 17:03:30,231 INFO: Skipping tweet 1915499686494151108: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915384960602538485: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915247695071002803: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915145160276795490: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914795538525868130: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914794550956077328: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914792801151181224: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914786774871666692: missing author_id
+2025-04-28 17:03:30,234 INFO: Skipping tweet 1914784298508673526: missing author_id
+2025-04-28 17:03:30,234 INFO: Skipping tweet 1914690785678606660: missing author_id
+2025-04-28 17:03:30,235 INFO: Skipping tweet 1914676063101141445: missing author_id
+2025-04-28 17:03:30,235 INFO: Skipping tweet 1914610596462416191: missing author_id
+2025-04-28 17:03:30,236 INFO: Skipping tweet 1914549240375988715: missing author_id
+2025-04-28 17:03:30,236 INFO: Skipping tweet 1914461293257294224: missing author_id
+2025-04-28 17:03:30,238 INFO: Inserted 0 new tweets.
+2025-04-28 17:05:14,618 INFO: package: mysql.connector.plugins
+2025-04-28 17:05:14,619 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:05:14,619 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:05:14,639 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:05:15,741 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:05:15,742 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:05:15,743 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:05:15,750 INFO: Starting Forum_2 at page 35
+2025-04-28 17:05:16,977 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:05:16,978 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:05:16,979 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:05:16,980 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:05:16,980 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:05:16,982 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:05:16,982 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:05:16,983 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:05:16,984 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:05:16,984 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:05:16,985 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:05:16,986 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:05:16,986 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:05:16,988 INFO: Starting Twitter scraper
+2025-04-28 17:05:17,110 INFO: Fetching tweets from 2025-04-21T23:05:17Z to 2025-04-28T23:04:17Z
+2025-04-28 17:05:17,852 INFO: Inserted 59 new tweets.
+2025-04-29 13:37:37,080 INFO: package: mysql.connector.plugins
+2025-04-29 13:37:37,081 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:37:37,082 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:37:37,101 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:37:38,815 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:37:38,815 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:37:38,816 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:37:38,817 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:37:38,818 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:37:38,818 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:37:38,819 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:37:38,820 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:37:38,820 INFO: Skipping post58944526: empty content
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:37:38,822 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:37:38,823 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:37:38,823 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:37:38,824 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:37:38,825 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:37:38,826 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:37:38,826 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:37:38,827 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:37:38,828 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:38:23,335 INFO: package: mysql.connector.plugins
+2025-04-29 13:38:23,336 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:38:23,336 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:38:23,352 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:38:25,051 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:38:25,051 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:38:25,052 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:38:25,052 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:38:25,053 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:38:25,054 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:38:25,055 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:38:25,056 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:38:25,056 INFO: Skipping post58944526: empty content
+2025-04-29 13:38:25,057 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:38:25,057 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:38:25,058 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:38:25,059 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:38:25,059 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:38:25,060 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:38:25,060 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:38:25,061 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:38:25,063 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:38:25,063 ERROR: Failed to parse date: Yesterday, 07:17 PM
+2025-04-29 13:38:25,064 INFO: Skipping post58969641: invalid date 'Yesterday, 07:17 PM'
+2025-04-29 13:38:25,064 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-29 13:38:25,072 INFO: Starting Forum_2 at page 35
+2025-04-29 13:38:26,271 INFO: Skipping duplicate post: post58739824
+2025-04-29 13:38:26,272 INFO: Skipping duplicate post: post58739841
+2025-04-29 13:38:26,273 INFO: Skipping duplicate post: post58756598
+2025-04-29 13:38:26,274 INFO: Skipping duplicate post: post58756861
+2025-04-29 13:38:26,275 INFO: Skipping duplicate post: post58756972
+2025-04-29 13:38:26,275 INFO: Skipping duplicate post: post58757347
+2025-04-29 13:38:26,276 INFO: Skipping duplicate post: post58759310
+2025-04-29 13:38:26,277 INFO: Skipping duplicate post: post58759495
+2025-04-29 13:38:26,277 INFO: Skipping duplicate post: post58780300
+2025-04-29 13:38:26,278 INFO: Skipping duplicate post: post58780541
+2025-04-29 13:38:26,279 INFO: Skipping duplicate post: post58846992
+2025-04-29 13:38:26,280 INFO: Skipping duplicate post: post58847773
+2025-04-29 13:38:26,281 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-29 13:38:26,282 INFO: Starting Twitter scraper
+2025-04-29 13:38:26,415 INFO: Fetching tweets from 2025-04-27T21:20:53Z to 2025-04-29T19:37:26Z
+2025-04-29 13:38:26,808 INFO: Inserted 3 new tweets.
+2025-04-29 13:45:15,606 INFO: package: mysql.connector.plugins
+2025-04-29 13:45:15,607 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:45:15,608 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:45:15,625 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:45:17,427 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:45:17,428 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:45:17,429 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:45:17,430 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:45:17,431 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:45:17,432 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:45:17,433 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:45:17,434 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:45:17,435 INFO: Skipping post58944526: empty content
+2025-04-29 13:45:17,435 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:45:17,436 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:45:17,436 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:45:17,437 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:45:17,438 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:45:17,439 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:45:17,440 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:45:17,441 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:45:17,442 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:45:17,443 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:45:17,443 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:45:17,444 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:45:17,445 ERROR: Failed to parse date: Yesterday, 07:17 PM
+2025-04-29 13:45:17,446 INFO: Skipping post58969641: invalid date 'Yesterday, 07:17 PM'
+2025-04-29 13:45:17,446 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-29 13:45:17,455 INFO: Starting Forum_2 at page 35
+2025-04-29 13:45:18,503 INFO: Skipping duplicate post: post58739824
+2025-04-29 13:45:18,504 INFO: Skipping duplicate post: post58739841
+2025-04-29 13:45:18,505 INFO: Skipping duplicate post: post58756598
+2025-04-29 13:45:18,505 INFO: Skipping duplicate post: post58756861
+2025-04-29 13:45:18,506 INFO: Skipping duplicate post: post58756972
+2025-04-29 13:45:18,507 INFO: Skipping duplicate post: post58757347
+2025-04-29 13:45:18,507 INFO: Skipping duplicate post: post58759310
+2025-04-29 13:45:18,508 INFO: Skipping duplicate post: post58759495
+2025-04-29 13:45:18,508 INFO: Skipping duplicate post: post58780300
+2025-04-29 13:45:18,509 INFO: Skipping duplicate post: post58780541
+2025-04-29 13:45:18,509 INFO: Skipping duplicate post: post58846992
+2025-04-29 13:45:18,510 INFO: Skipping duplicate post: post58847773
+2025-04-29 13:45:18,510 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-29 13:45:18,511 INFO: Starting Twitter scraper
+2025-04-29 13:45:18,632 INFO: Fetching tweets from 2025-04-28T17:04:38Z to 2025-04-29T19:44:18Z
+2025-04-29 13:45:19,000 INFO: Inserted 0 new tweets.

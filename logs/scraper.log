@@ -1,0 +1,1131 @@
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 15:47:32,059 INFO: package: mysql.connector.plugins
+2025-04-28 15:47:32,059 INFO: plugin_name: caching_sha2_password
+2025-04-28 15:47:32,059 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 15:47:32,064 INFO: Starting scraping for Forum_1 from page 1640
+2025-04-28 15:47:33,002 INFO: Skipping duplicate post: post_message_58960898
+2025-04-28 15:47:33,003 INFO: Skipping duplicate post: post_message_58962520
+2025-04-28 15:47:33,015 INFO: Completed scraping page 1640 of Forum_1, posts inserted: 3
+2025-04-28 15:47:34,554 INFO: Skipping duplicate post: posts
+2025-04-28 15:47:34,555 INFO: Skipping duplicate post: post58960898
+2025-04-28 15:47:34,555 INFO: Skipping duplicate post: post_message_58960898
+2025-04-28 15:47:34,555 INFO: Skipping duplicate post: post58962520
+2025-04-28 15:47:34,555 INFO: Skipping duplicate post: post_message_58962520
+2025-04-28 15:47:34,555 INFO: No new posts found on page 1641 of Forum_1. Stopping scraper.
+2025-04-28 15:47:34,557 INFO: Starting scraping for Forum_2 from page 86
+2025-04-28 15:47:35,682 INFO: Completed scraping page 86 of Forum_2, posts inserted: 25
+2025-04-28 15:47:37,708 INFO: Skipping duplicate post: posts
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post58739824
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post_message_58739824
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post58739841
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post_message_58739841
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post58756598
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post_message_58756598
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post58756861
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post_message_58756861
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post58756972
+2025-04-28 15:47:37,709 INFO: Skipping duplicate post: post_message_58756972
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post58757347
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post_message_58757347
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post58759310
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post_message_58759310
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post58759495
+2025-04-28 15:47:37,710 INFO: Skipping duplicate post: post_message_58759495
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post58780300
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post_message_58780300
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post58780541
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post_message_58780541
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post58846992
+2025-04-28 15:47:37,711 INFO: Skipping duplicate post: post_message_58846992
+2025-04-28 15:47:37,712 INFO: Skipping duplicate post: post58847773
+2025-04-28 15:47:37,712 INFO: Skipping duplicate post: post_message_58847773
+2025-04-28 15:47:37,712 INFO: No new posts found on page 87 of Forum_2. Stopping scraper.
+2025-04-28 15:59:17,445 INFO: package: mysql.connector.plugins
+2025-04-28 15:59:17,446 INFO: plugin_name: caching_sha2_password
+2025-04-28 15:59:17,446 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 15:59:17,449 INFO: Starting Forum_1 at page 1500
+2025-04-28 15:59:20,231 INFO: Starting Forum_2 at page 1
+2025-04-28 15:59:30,766 INFO: package: mysql.connector.plugins
+2025-04-28 15:59:30,766 INFO: plugin_name: caching_sha2_password
+2025-04-28 15:59:30,767 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 15:59:30,769 INFO: Starting Forum_1 at page 1500
+2025-04-28 15:59:33,709 INFO: Starting Forum_2 at page 1
+2025-04-28 16:00:50,905 INFO: package: mysql.connector.plugins
+2025-04-28 16:00:50,906 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:00:50,906 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:00:50,909 INFO: Starting Forum_1 at page 1500
+2025-04-28 16:00:53,726 INFO: Starting Forum_2 at page 1
+2025-04-28 16:03:14,943 INFO: package: mysql.connector.plugins
+2025-04-28 16:03:14,943 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:03:14,944 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:03:14,946 INFO: Starting Forum_1 at page 1500
+2025-04-28 16:03:17,798 INFO: Skipping posts: invalid date '07-02-2023, 07:55 PM'
+2025-04-28 16:03:17,798 INFO: Skipping post58181702: invalid date '07-02-2023, 07:55 PM'
+2025-04-28 16:03:17,799 INFO: Skipping invalid post id: post_message_58181702
+2025-04-28 16:03:17,799 INFO: Skipping post58181850: invalid date '07-02-2023, 10:16 PM'
+2025-04-28 16:03:17,799 INFO: Skipping invalid post id: post_message_58181850
+2025-04-28 16:03:17,799 INFO: Skipping post58182193: invalid date '07-03-2023, 08:58 AM'
+2025-04-28 16:03:17,799 INFO: Skipping invalid post id: post_message_58182193
+2025-04-28 16:03:17,800 INFO: Skipping post58182223: invalid date '07-03-2023, 09:49 AM'
+2025-04-28 16:03:17,800 INFO: Skipping invalid post id: post_message_58182223
+2025-04-28 16:03:17,800 INFO: Skipping post58182560: invalid date '07-03-2023, 03:55 PM'
+2025-04-28 16:03:17,800 INFO: Skipping invalid post id: post_message_58182560
+2025-04-28 16:03:17,801 INFO: Skipping post58183678: invalid date '07-04-2023, 03:09 PM'
+2025-04-28 16:03:17,801 INFO: Skipping invalid post id: post_message_58183678
+2025-04-28 16:03:17,801 INFO: Skipping post58183703: invalid date '07-04-2023, 03:41 PM'
+2025-04-28 16:03:17,801 INFO: Skipping invalid post id: post_message_58183703
+2025-04-28 16:03:17,801 INFO: Skipping post58183729: invalid date '07-04-2023, 03:59 PM'
+2025-04-28 16:03:17,801 INFO: Skipping invalid post id: post_message_58183729
+2025-04-28 16:03:17,802 INFO: Skipping post58183773: invalid date '07-04-2023, 04:53 PM'
+2025-04-28 16:03:17,802 INFO: Skipping invalid post id: post_message_58183773
+2025-04-28 16:03:17,802 INFO: Skipping post58184400: invalid date '07-05-2023, 08:02 AM'
+2025-04-28 16:03:17,803 INFO: Skipping invalid post id: post_message_58184400
+2025-04-28 16:03:17,803 INFO: Skipping post58184439: invalid date '07-05-2023, 09:00 AM'
+2025-04-28 16:03:17,803 INFO: Skipping invalid post id: post_message_58184439
+2025-04-28 16:03:17,804 INFO: Skipping post58184441: invalid date '07-05-2023, 09:02 AM'
+2025-04-28 16:03:17,804 INFO: Skipping invalid post id: post_message_58184441
+2025-04-28 16:03:17,804 INFO: Skipping post58184442: invalid date '07-05-2023, 09:04 AM'
+2025-04-28 16:03:17,805 INFO: Skipping invalid post id: post_message_58184442
+2025-04-28 16:03:17,805 INFO: Skipping post58184445: invalid date '07-05-2023, 09:07 AM'
+2025-04-28 16:03:17,805 INFO: Skipping invalid post id: post_message_58184445
+2025-04-28 16:03:17,805 INFO: Skipping post58184446: invalid date '07-05-2023, 09:10 AM'
+2025-04-28 16:03:17,806 INFO: Skipping invalid post id: post_message_58184446
+2025-04-28 16:03:17,806 INFO: Skipping post58184449: invalid date '07-05-2023, 09:12 AM'
+2025-04-28 16:03:17,807 INFO: Skipping invalid post id: post_message_58184449
+2025-04-28 16:03:17,807 INFO: Skipping post58184454: invalid date '07-05-2023, 09:15 AM'
+2025-04-28 16:03:17,807 INFO: Skipping invalid post id: post_message_58184454
+2025-04-28 16:03:17,808 INFO: Skipping post58184455: invalid date '07-05-2023, 09:16 AM'
+2025-04-28 16:03:17,808 INFO: Skipping invalid post id: post_message_58184455
+2025-04-28 16:03:17,808 INFO: Skipping post58184461: invalid date '07-05-2023, 09:25 AM'
+2025-04-28 16:03:17,809 INFO: Skipping invalid post id: post_message_58184461
+2025-04-28 16:03:17,809 INFO: Skipping post58184523: invalid date '07-05-2023, 10:21 AM'
+2025-04-28 16:03:17,809 INFO: Skipping invalid post id: post_message_58184523
+2025-04-28 16:03:17,810 INFO: Skipping post58184544: invalid date '07-05-2023, 10:49 AM'
+2025-04-28 16:03:17,810 INFO: Skipping invalid post id: post_message_58184544
+2025-04-28 16:03:17,811 INFO: Skipping post58184573: invalid date '07-05-2023, 11:14 AM'
+2025-04-28 16:03:17,811 INFO: Skipping invalid post id: post_message_58184573
+2025-04-28 16:03:17,812 INFO: Skipping post58184580: invalid date '07-05-2023, 11:23 AM'
+2025-04-28 16:03:17,812 INFO: Skipping invalid post id: post_message_58184580
+2025-04-28 16:03:17,812 INFO: Skipping post58184582: invalid date '07-05-2023, 11:26 AM'
+2025-04-28 16:03:17,812 INFO: Skipping invalid post id: post_message_58184582
+2025-04-28 16:03:17,813 INFO: Skipping post58184602: invalid date '07-05-2023, 11:40 AM'
+2025-04-28 16:03:17,813 INFO: Skipping invalid post id: post_message_58184602
+2025-04-28 16:03:17,813 INFO: [Forum_1][Page 1500] 0 new posts; stopping.
+2025-04-28 16:03:17,815 INFO: Starting Forum_2 at page 1
+2025-04-28 16:03:19,542 INFO: Skipping posts: invalid date '01-03-2024, 08:13 PM'
+2025-04-28 16:03:19,543 INFO: Skipping post58401647: invalid date '01-03-2024, 08:13 PM'
+2025-04-28 16:03:19,543 INFO: Skipping invalid post id: post_message_58401647
+2025-04-28 16:03:19,543 INFO: Skipping post58401655: invalid date '01-03-2024, 08:18 PM'
+2025-04-28 16:03:19,544 INFO: Skipping invalid post id: post_message_58401655
+2025-04-28 16:03:19,544 INFO: Skipping post58401658: invalid date '01-03-2024, 08:22 PM'
+2025-04-28 16:03:19,545 INFO: Skipping invalid post id: post_message_58401658
+2025-04-28 16:03:19,545 INFO: Skipping post58401687: invalid date '01-03-2024, 08:42 PM'
+2025-04-28 16:03:19,545 INFO: Skipping invalid post id: post_message_58401687
+2025-04-28 16:03:19,546 INFO: Skipping post58401695: invalid date '01-03-2024, 08:48 PM'
+2025-04-28 16:03:19,546 INFO: Skipping invalid post id: post_message_58401695
+2025-04-28 16:03:19,547 INFO: Skipping post58401723: invalid date '01-03-2024, 09:12 PM'
+2025-04-28 16:03:19,547 INFO: Skipping invalid post id: post_message_58401723
+2025-04-28 16:03:19,547 INFO: Skipping post58401728: invalid date '01-03-2024, 09:15 PM'
+2025-04-28 16:03:19,548 INFO: Skipping invalid post id: post_message_58401728
+2025-04-28 16:03:19,548 INFO: Skipping post58401730: invalid date '01-03-2024, 09:18 PM'
+2025-04-28 16:03:19,548 INFO: Skipping invalid post id: post_message_58401730
+2025-04-28 16:03:19,549 INFO: Skipping post58401746: invalid date '01-03-2024, 09:39 PM'
+2025-04-28 16:03:19,549 INFO: Skipping invalid post id: post_message_58401746
+2025-04-28 16:03:19,550 INFO: Skipping post58401764: invalid date '01-03-2024, 09:54 PM'
+2025-04-28 16:03:19,550 INFO: Skipping invalid post id: post_message_58401764
+2025-04-28 16:03:19,550 INFO: Skipping post58401791: invalid date '01-03-2024, 10:14 PM'
+2025-04-28 16:03:19,551 INFO: Skipping invalid post id: post_message_58401791
+2025-04-28 16:03:19,551 INFO: Skipping post58401794: invalid date '01-03-2024, 10:16 PM'
+2025-04-28 16:03:19,551 INFO: Skipping invalid post id: post_message_58401794
+2025-04-28 16:03:19,552 INFO: Skipping post58401800: invalid date '01-03-2024, 10:21 PM'
+2025-04-28 16:03:19,552 INFO: Skipping invalid post id: post_message_58401800
+2025-04-28 16:03:19,552 INFO: Skipping post58401801: invalid date '01-03-2024, 10:22 PM'
+2025-04-28 16:03:19,553 INFO: Skipping invalid post id: post_message_58401801
+2025-04-28 16:03:19,553 INFO: Skipping post58401827: invalid date '01-03-2024, 10:49 PM'
+2025-04-28 16:03:19,554 INFO: Skipping invalid post id: post_message_58401827
+2025-04-28 16:03:19,554 INFO: Skipping post58401828: invalid date '01-03-2024, 10:49 PM'
+2025-04-28 16:03:19,554 INFO: Skipping invalid post id: post_message_58401828
+2025-04-28 16:03:19,555 INFO: Skipping post58401857: invalid date '01-03-2024, 11:28 PM'
+2025-04-28 16:03:19,555 INFO: Skipping invalid post id: post_message_58401857
+2025-04-28 16:03:19,555 INFO: Skipping post58401866: invalid date '01-03-2024, 11:48 PM'
+2025-04-28 16:03:19,555 INFO: Skipping invalid post id: post_message_58401866
+2025-04-28 16:03:19,556 INFO: Skipping post58401896: invalid date '01-04-2024, 12:32 AM'
+2025-04-28 16:03:19,556 INFO: Skipping invalid post id: post_message_58401896
+2025-04-28 16:03:19,557 INFO: Skipping post58401902: invalid date '01-04-2024, 12:39 AM'
+2025-04-28 16:03:19,557 INFO: Skipping invalid post id: post_message_58401902
+2025-04-28 16:03:19,557 INFO: Skipping post58401910: invalid date '01-04-2024, 12:48 AM'
+2025-04-28 16:03:19,558 INFO: Skipping invalid post id: post_message_58401910
+2025-04-28 16:03:19,558 INFO: Skipping post58401912: invalid date '01-04-2024, 12:49 AM'
+2025-04-28 16:03:19,558 INFO: Skipping invalid post id: post_message_58401912
+2025-04-28 16:03:19,558 INFO: Skipping post58401918: invalid date '01-04-2024, 01:08 AM'
+2025-04-28 16:03:19,559 INFO: Skipping invalid post id: post_message_58401918
+2025-04-28 16:03:19,559 INFO: Skipping post58401923: invalid date '01-04-2024, 01:21 AM'
+2025-04-28 16:03:19,559 INFO: Skipping invalid post id: post_message_58401923
+2025-04-28 16:03:19,560 INFO: Skipping post58401930: invalid date '01-04-2024, 01:35 AM'
+2025-04-28 16:03:19,560 INFO: Skipping invalid post id: post_message_58401930
+2025-04-28 16:03:19,560 INFO: [Forum_2][Page 1] 0 new posts; stopping.
+2025-04-28 16:04:24,460 INFO: package: mysql.connector.plugins
+2025-04-28 16:04:24,461 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:04:24,461 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:04:24,464 INFO: Starting Forum_1 at page 1500
+2025-04-28 16:04:28,046 INFO: Skipping invalid post id: post_message_58181702
+2025-04-28 16:04:28,046 INFO: Skipping invalid post id: post_message_58181850
+2025-04-28 16:04:28,047 INFO: Skipping invalid post id: post_message_58182193
+2025-04-28 16:04:28,047 INFO: Skipping invalid post id: post_message_58182223
+2025-04-28 16:04:28,048 INFO: Skipping invalid post id: post_message_58182560
+2025-04-28 16:04:28,048 INFO: Skipping invalid post id: post_message_58183678
+2025-04-28 16:04:28,049 INFO: Skipping invalid post id: post_message_58183703
+2025-04-28 16:04:28,049 INFO: Skipping invalid post id: post_message_58183729
+2025-04-28 16:04:28,050 INFO: Skipping invalid post id: post_message_58183773
+2025-04-28 16:04:28,050 INFO: Skipping invalid post id: post_message_58184400
+2025-04-28 16:04:28,051 INFO: Skipping invalid post id: post_message_58184439
+2025-04-28 16:04:28,052 INFO: Skipping invalid post id: post_message_58184441
+2025-04-28 16:04:28,052 INFO: Skipping invalid post id: post_message_58184442
+2025-04-28 16:04:28,053 INFO: Skipping invalid post id: post_message_58184445
+2025-04-28 16:04:28,053 INFO: Skipping invalid post id: post_message_58184446
+2025-04-28 16:04:28,054 INFO: Skipping invalid post id: post_message_58184449
+2025-04-28 16:04:28,054 INFO: Skipping invalid post id: post_message_58184454
+2025-04-28 16:04:28,055 INFO: Skipping invalid post id: post_message_58184455
+2025-04-28 16:04:28,055 INFO: Skipping invalid post id: post_message_58184461
+2025-04-28 16:04:28,056 INFO: Skipping invalid post id: post_message_58184523
+2025-04-28 16:04:28,057 INFO: Skipping invalid post id: post_message_58184544
+2025-04-28 16:04:28,057 INFO: Skipping invalid post id: post_message_58184573
+2025-04-28 16:04:28,058 INFO: Skipping invalid post id: post_message_58184580
+2025-04-28 16:04:28,058 INFO: Skipping invalid post id: post_message_58184582
+2025-04-28 16:04:28,059 INFO: Skipping invalid post id: post_message_58184602
+2025-04-28 16:04:28,172 INFO: [Forum_1][Page 1500] Inserted 26 posts
+2025-04-28 16:04:32,086 INFO: Skipping invalid post id: post_message_58184622
+2025-04-28 16:04:32,088 INFO: Skipping invalid post id: post_message_58184660
+2025-04-28 16:04:32,088 INFO: Skipping invalid post id: post_message_58184665
+2025-04-28 16:04:32,089 INFO: Skipping invalid post id: post_message_58184677
+2025-04-28 16:04:32,090 INFO: Skipping invalid post id: post_message_58184707
+2025-04-28 16:04:32,090 INFO: Skipping invalid post id: post_message_58184709
+2025-04-28 16:04:32,091 INFO: Skipping invalid post id: post_message_58184710
+2025-04-28 16:04:32,092 INFO: Skipping invalid post id: post_message_58184714
+2025-04-28 16:04:32,092 INFO: Skipping invalid post id: post_message_58184717
+2025-04-28 16:04:32,093 INFO: Skipping invalid post id: post_message_58184745
+2025-04-28 16:04:32,093 INFO: Skipping invalid post id: post_message_58184803
+2025-04-28 16:04:32,094 INFO: Skipping invalid post id: post_message_58184808
+2025-04-28 16:04:32,094 INFO: Skipping invalid post id: post_message_58184858
+2025-04-28 16:04:32,095 INFO: Skipping invalid post id: post_message_58184872
+2025-04-28 16:04:32,095 INFO: Skipping invalid post id: post_message_58184885
+2025-04-28 16:04:32,096 INFO: Skipping invalid post id: post_message_58184892
+2025-04-28 16:04:32,096 INFO: Skipping invalid post id: post_message_58184900
+2025-04-28 16:04:32,097 INFO: Skipping invalid post id: post_message_58184906
+2025-04-28 16:04:32,098 INFO: Skipping invalid post id: post_message_58184913
+2025-04-28 16:04:32,099 INFO: Skipping invalid post id: post_message_58184917
+2025-04-28 16:04:32,099 INFO: Skipping invalid post id: post_message_58184935
+2025-04-28 16:04:32,100 INFO: Skipping invalid post id: post_message_58184948
+2025-04-28 16:04:32,100 INFO: Skipping invalid post id: post_message_58184949
+2025-04-28 16:04:32,100 INFO: Skipping invalid post id: post_message_58184989
+2025-04-28 16:04:32,101 INFO: Skipping invalid post id: post_message_58185023
+2025-04-28 16:04:32,219 INFO: [Forum_1][Page 1501] Inserted 26 posts
+2025-04-28 16:04:37,769 INFO: Skipping invalid post id: post_message_58185027
+2025-04-28 16:04:37,770 INFO: Skipping invalid post id: post_message_58185031
+2025-04-28 16:04:37,770 INFO: Skipping invalid post id: post_message_58185048
+2025-04-28 16:04:37,771 INFO: Skipping invalid post id: post_message_58185104
+2025-04-28 16:04:37,771 INFO: Skipping invalid post id: post_message_58185114
+2025-04-28 16:04:37,772 INFO: Skipping invalid post id: post_message_58185117
+2025-04-28 16:04:37,773 INFO: Skipping invalid post id: post_message_58185147
+2025-04-28 16:04:37,773 INFO: Skipping invalid post id: post_message_58185179
+2025-04-28 16:04:37,774 INFO: Skipping invalid post id: post_message_58185187
+2025-04-28 16:04:37,774 INFO: Skipping invalid post id: post_message_58185191
+2025-04-28 16:04:37,775 INFO: Skipping invalid post id: post_message_58185222
+2025-04-28 16:04:37,775 INFO: Skipping invalid post id: post_message_58185229
+2025-04-28 16:04:37,776 INFO: Skipping invalid post id: post_message_58185230
+2025-04-28 16:04:37,777 INFO: Skipping invalid post id: post_message_58185237
+2025-04-28 16:04:37,777 INFO: Skipping invalid post id: post_message_58185242
+2025-04-28 16:04:37,778 INFO: Skipping invalid post id: post_message_58185259
+2025-04-28 16:04:37,779 INFO: Skipping invalid post id: post_message_58185272
+2025-04-28 16:04:37,780 INFO: Skipping invalid post id: post_message_58185302
+2025-04-28 16:04:37,780 INFO: Skipping invalid post id: post_message_58185307
+2025-04-28 16:04:37,781 INFO: Skipping invalid post id: post_message_58185308
+2025-04-28 16:04:37,781 INFO: Skipping invalid post id: post_message_58185346
+2025-04-28 16:04:37,782 INFO: Skipping invalid post id: post_message_58185357
+2025-04-28 16:04:37,782 INFO: Skipping invalid post id: post_message_58185380
+2025-04-28 16:04:37,783 INFO: Skipping invalid post id: post_message_58185385
+2025-04-28 16:04:37,784 INFO: Skipping invalid post id: post_message_58185397
+2025-04-28 16:04:37,896 INFO: [Forum_1][Page 1502] Inserted 26 posts
+2025-04-28 16:04:41,620 INFO: Skipping invalid post id: post_message_58185398
+2025-04-28 16:04:41,621 INFO: Skipping invalid post id: post_message_58185424
+2025-04-28 16:04:41,622 INFO: Skipping invalid post id: post_message_58185441
+2025-04-28 16:04:41,622 INFO: Skipping invalid post id: post_message_58185463
+2025-04-28 16:04:41,622 INFO: Skipping invalid post id: post_message_58185479
+2025-04-28 16:04:41,623 INFO: Skipping invalid post id: post_message_58185505
+2025-04-28 16:04:41,623 INFO: Skipping invalid post id: post_message_58185527
+2025-04-28 16:04:41,624 INFO: Skipping invalid post id: post_message_58185531
+2025-04-28 16:04:41,625 INFO: Skipping invalid post id: post_message_58185586
+2025-04-28 16:04:41,625 INFO: Skipping invalid post id: post_message_58185642
+2025-04-28 16:04:41,626 INFO: Skipping invalid post id: post_message_58185658
+2025-04-28 16:04:41,626 INFO: Skipping invalid post id: post_message_58185670
+2025-04-28 16:04:41,627 INFO: Skipping invalid post id: post_message_58185685
+2025-04-28 16:04:41,627 INFO: Skipping invalid post id: post_message_58185687
+2025-04-28 16:04:41,628 INFO: Skipping invalid post id: post_message_58185842
+2025-04-28 16:04:41,628 INFO: Skipping invalid post id: post_message_58185902
+2025-04-28 16:04:41,629 INFO: Skipping invalid post id: post_message_58185971
+2025-04-28 16:04:41,629 INFO: Skipping invalid post id: post_message_58186010
+2025-04-28 16:04:41,630 INFO: Skipping invalid post id: post_message_58186015
+2025-04-28 16:04:41,630 INFO: Skipping invalid post id: post_message_58186031
+2025-04-28 16:04:41,631 INFO: Skipping invalid post id: post_message_58186057
+2025-04-28 16:04:41,632 INFO: Skipping invalid post id: post_message_58186061
+2025-04-28 16:04:41,632 INFO: Skipping invalid post id: post_message_58186172
+2025-04-28 16:04:41,632 INFO: Skipping invalid post id: post_message_58186181
+2025-04-28 16:04:41,633 INFO: Skipping invalid post id: post_message_58186187
+2025-04-28 16:04:41,746 INFO: [Forum_1][Page 1503] Inserted 26 posts
+2025-04-28 16:04:46,149 INFO: Skipping invalid post id: post_message_58186190
+2025-04-28 16:04:46,149 INFO: Skipping invalid post id: post_message_58186211
+2025-04-28 16:04:46,151 INFO: Skipping invalid post id: post_message_58186214
+2025-04-28 16:04:46,152 INFO: Skipping invalid post id: post_message_58186223
+2025-04-28 16:04:46,152 INFO: Skipping invalid post id: post_message_58186251
+2025-04-28 16:04:46,153 INFO: Skipping invalid post id: post_message_58186269
+2025-04-28 16:04:46,154 INFO: Skipping invalid post id: post_message_58186307
+2025-04-28 16:04:46,154 INFO: Skipping invalid post id: post_message_58186322
+2025-04-28 16:04:46,155 INFO: Skipping invalid post id: post_message_58186348
+2025-04-28 16:04:46,155 INFO: Skipping invalid post id: post_message_58186351
+2025-04-28 16:04:46,156 INFO: Skipping invalid post id: post_message_58186360
+2025-04-28 16:04:46,156 INFO: Skipping invalid post id: post_message_58186431
+2025-04-28 16:04:46,157 INFO: Skipping invalid post id: post_message_58186473
+2025-04-28 16:04:46,157 INFO: Skipping invalid post id: post_message_58186648
+2025-04-28 16:04:46,158 INFO: Skipping invalid post id: post_message_58186650
+2025-04-28 16:04:46,158 INFO: Skipping invalid post id: post_message_58186655
+2025-04-28 16:04:46,159 INFO: Skipping invalid post id: post_message_58186805
+2025-04-28 16:04:46,160 INFO: Skipping invalid post id: post_message_58186806
+2025-04-28 16:04:46,160 INFO: Skipping invalid post id: post_message_58186817
+2025-04-28 16:04:46,161 INFO: Skipping invalid post id: post_message_58186835
+2025-04-28 16:04:46,161 INFO: Skipping invalid post id: post_message_58186996
+2025-04-28 16:04:46,162 INFO: Skipping invalid post id: post_message_58187030
+2025-04-28 16:04:46,162 INFO: Skipping invalid post id: post_message_58187054
+2025-04-28 16:04:46,162 INFO: Skipping invalid post id: post_message_58187092
+2025-04-28 16:04:46,163 INFO: Skipping invalid post id: post_message_58187153
+2025-04-28 16:04:46,274 INFO: [Forum_1][Page 1504] Inserted 26 posts
+2025-04-28 16:04:55,007 INFO: Skipping invalid post id: post_message_58187189
+2025-04-28 16:04:55,009 INFO: Skipping invalid post id: post_message_58187215
+2025-04-28 16:04:55,009 INFO: Skipping invalid post id: post_message_58187305
+2025-04-28 16:04:55,010 INFO: Skipping invalid post id: post_message_58187571
+2025-04-28 16:04:55,011 INFO: Skipping invalid post id: post_message_58187607
+2025-04-28 16:04:55,011 INFO: Skipping invalid post id: post_message_58187644
+2025-04-28 16:04:55,012 INFO: Skipping invalid post id: post_message_58187759
+2025-04-28 16:04:55,012 INFO: Skipping invalid post id: post_message_58187787
+2025-04-28 16:04:55,013 INFO: Skipping invalid post id: post_message_58187815
+2025-04-28 16:04:55,013 INFO: Skipping invalid post id: post_message_58187994
+2025-04-28 16:04:55,014 INFO: Skipping invalid post id: post_message_58188075
+2025-04-28 16:04:55,014 INFO: Skipping invalid post id: post_message_58188084
+2025-04-28 16:04:55,015 INFO: Skipping invalid post id: post_message_58188155
+2025-04-28 16:04:55,015 INFO: Skipping invalid post id: post_message_58188262
+2025-04-28 16:04:55,016 INFO: Skipping invalid post id: post_message_58188299
+2025-04-28 16:04:55,016 INFO: Skipping invalid post id: post_message_58188331
+2025-04-28 16:04:55,016 INFO: Skipping invalid post id: post_message_58188333
+2025-04-28 16:04:55,016 INFO: Skipping invalid post id: post_message_58188532
+2025-04-28 16:04:55,017 INFO: Skipping invalid post id: post_message_58188741
+2025-04-28 16:04:55,018 INFO: Skipping invalid post id: post_message_58188837
+2025-04-28 16:04:55,018 INFO: Skipping invalid post id: post_message_58188882
+2025-04-28 16:04:55,019 INFO: Skipping invalid post id: post_message_58188965
+2025-04-28 16:04:55,019 INFO: Skipping invalid post id: post_message_58188968
+2025-04-28 16:04:55,020 INFO: Skipping invalid post id: post_message_58189104
+2025-04-28 16:04:55,021 INFO: Skipping invalid post id: post_message_58189109
+2025-04-28 16:04:55,137 INFO: [Forum_1][Page 1505] Inserted 26 posts
+2025-04-28 16:04:59,247 INFO: Skipping invalid post id: post_message_58189449
+2025-04-28 16:04:59,248 INFO: Skipping invalid post id: post_message_58189548
+2025-04-28 16:04:59,249 INFO: Skipping invalid post id: post_message_58189577
+2025-04-28 16:04:59,249 INFO: Skipping invalid post id: post_message_58189584
+2025-04-28 16:04:59,249 INFO: Skipping invalid post id: post_message_58189648
+2025-04-28 16:04:59,249 INFO: Skipping invalid post id: post_message_58189657
+2025-04-28 16:04:59,250 INFO: Skipping invalid post id: post_message_58189681
+2025-04-28 16:04:59,251 INFO: Skipping invalid post id: post_message_58189838
+2025-04-28 16:04:59,251 INFO: Skipping invalid post id: post_message_58189878
+2025-04-28 16:04:59,251 INFO: Skipping invalid post id: post_message_58189884
+2025-04-28 16:04:59,252 INFO: Skipping invalid post id: post_message_58190157
+2025-04-28 16:04:59,252 INFO: Skipping invalid post id: post_message_58190213
+2025-04-28 16:04:59,252 INFO: Skipping invalid post id: post_message_58190279
+2025-04-28 16:04:59,252 INFO: Skipping invalid post id: post_message_58190315
+2025-04-28 16:04:59,253 INFO: Skipping invalid post id: post_message_58190548
+2025-04-28 16:04:59,253 INFO: Skipping invalid post id: post_message_58190604
+2025-04-28 16:04:59,254 INFO: Skipping invalid post id: post_message_58190803
+2025-04-28 16:04:59,254 INFO: Skipping invalid post id: post_message_58190826
+2025-04-28 16:04:59,255 INFO: Skipping invalid post id: post_message_58190919
+2025-04-28 16:04:59,255 INFO: Skipping invalid post id: post_message_58191003
+2025-04-28 16:04:59,256 INFO: Skipping invalid post id: post_message_58191319
+2025-04-28 16:04:59,256 INFO: Skipping invalid post id: post_message_58191594
+2025-04-28 16:04:59,256 INFO: Skipping invalid post id: post_message_58191635
+2025-04-28 16:04:59,257 INFO: Skipping invalid post id: post_message_58191772
+2025-04-28 16:04:59,257 INFO: Skipping invalid post id: post_message_58191844
+2025-04-28 16:04:59,368 INFO: [Forum_1][Page 1506] Inserted 26 posts
+2025-04-28 16:05:03,091 INFO: Skipping invalid post id: post_message_58191858
+2025-04-28 16:05:03,092 INFO: Skipping invalid post id: post_message_58191916
+2025-04-28 16:05:03,092 INFO: Skipping invalid post id: post_message_58192083
+2025-04-28 16:05:03,093 INFO: Skipping invalid post id: post_message_58192230
+2025-04-28 16:05:03,093 INFO: Skipping invalid post id: post_message_58192480
+2025-04-28 16:05:03,094 INFO: Skipping invalid post id: post_message_58192497
+2025-04-28 16:05:03,094 INFO: Skipping invalid post id: post_message_58192719
+2025-04-28 16:05:03,095 INFO: Skipping invalid post id: post_message_58192813
+2025-04-28 16:05:03,095 INFO: Skipping invalid post id: post_message_58192837
+2025-04-28 16:05:03,096 INFO: Skipping invalid post id: post_message_58192841
+2025-04-28 16:05:03,096 INFO: Skipping invalid post id: post_message_58193574
+2025-04-28 16:05:03,097 INFO: Skipping invalid post id: post_message_58193678
+2025-04-28 16:05:03,097 INFO: Skipping invalid post id: post_message_58193720
+2025-04-28 16:05:03,097 INFO: Skipping invalid post id: post_message_58193730
+2025-04-28 16:05:03,098 INFO: Skipping invalid post id: post_message_58193739
+2025-04-28 16:05:03,098 INFO: Skipping invalid post id: post_message_58193746
+2025-04-28 16:05:03,099 INFO: Skipping invalid post id: post_message_58193954
+2025-04-28 16:05:03,099 INFO: Skipping invalid post id: post_message_58193955
+2025-04-28 16:05:03,099 INFO: Skipping invalid post id: post_message_58193976
+2025-04-28 16:05:03,099 INFO: Skipping invalid post id: post_message_58194484
+2025-04-28 16:05:03,100 INFO: Skipping invalid post id: post_message_58195390
+2025-04-28 16:05:03,101 INFO: Skipping invalid post id: post_message_58195644
+2025-04-28 16:05:03,101 INFO: Skipping invalid post id: post_message_58195648
+2025-04-28 16:05:03,102 INFO: Skipping invalid post id: post_message_58196046
+2025-04-28 16:05:03,102 INFO: Skipping invalid post id: post_message_58196092
+2025-04-28 16:05:03,206 INFO: [Forum_1][Page 1507] Inserted 26 posts
+2025-04-28 16:05:07,427 INFO: Skipping invalid post id: post_message_58196149
+2025-04-28 16:05:07,428 INFO: Skipping invalid post id: post_message_58196646
+2025-04-28 16:05:07,428 INFO: Skipping invalid post id: post_message_58197052
+2025-04-28 16:05:07,429 INFO: Skipping invalid post id: post_message_58197195
+2025-04-28 16:05:07,430 INFO: Skipping invalid post id: post_message_58197286
+2025-04-28 16:05:07,430 INFO: Skipping invalid post id: post_message_58197310
+2025-04-28 16:05:07,431 INFO: Skipping invalid post id: post_message_58197313
+2025-04-28 16:05:07,431 INFO: Skipping invalid post id: post_message_58197355
+2025-04-28 16:05:07,432 INFO: Skipping invalid post id: post_message_58197381
+2025-04-28 16:05:07,432 INFO: Skipping invalid post id: post_message_58197421
+2025-04-28 16:05:07,433 INFO: Skipping invalid post id: post_message_58197473
+2025-04-28 16:05:07,434 INFO: Skipping invalid post id: post_message_58197847
+2025-04-28 16:05:07,434 INFO: Skipping invalid post id: post_message_58198272
+2025-04-28 16:05:07,435 INFO: Skipping invalid post id: post_message_58198504
+2025-04-28 16:05:07,435 INFO: Skipping invalid post id: post_message_58198569
+2025-04-28 16:05:07,436 INFO: Skipping invalid post id: post_message_58198571
+2025-04-28 16:05:07,436 INFO: Skipping invalid post id: post_message_58198679
+2025-04-28 16:05:07,437 INFO: Skipping invalid post id: post_message_58199024
+2025-04-28 16:05:07,437 INFO: Skipping invalid post id: post_message_58199234
+2025-04-28 16:05:07,437 INFO: Skipping invalid post id: post_message_58199235
+2025-04-28 16:05:07,438 INFO: Skipping invalid post id: post_message_58199945
+2025-04-28 16:05:07,438 INFO: Skipping invalid post id: post_message_58200482
+2025-04-28 16:05:07,439 INFO: Skipping invalid post id: post_message_58201289
+2025-04-28 16:05:07,440 INFO: Skipping invalid post id: post_message_58201570
+2025-04-28 16:05:07,440 INFO: Skipping invalid post id: post_message_58201576
+2025-04-28 16:05:07,554 INFO: [Forum_1][Page 1508] Inserted 26 posts
+2025-04-28 16:05:13,157 INFO: Skipping invalid post id: post_message_58201587
+2025-04-28 16:05:13,158 INFO: Skipping invalid post id: post_message_58201598
+2025-04-28 16:05:13,159 INFO: Skipping invalid post id: post_message_58201860
+2025-04-28 16:05:13,160 INFO: Skipping invalid post id: post_message_58201924
+2025-04-28 16:05:13,160 INFO: Skipping invalid post id: post_message_58201953
+2025-04-28 16:05:13,161 INFO: Skipping invalid post id: post_message_58201990
+2025-04-28 16:05:13,161 INFO: Skipping invalid post id: post_message_58202110
+2025-04-28 16:05:13,162 INFO: Skipping invalid post id: post_message_58202122
+2025-04-28 16:05:13,162 INFO: Skipping invalid post id: post_message_58202205
+2025-04-28 16:05:13,163 INFO: Skipping invalid post id: post_message_58202343
+2025-04-28 16:05:13,163 INFO: Skipping invalid post id: post_message_58202676
+2025-04-28 16:05:13,164 INFO: Skipping invalid post id: post_message_58202834
+2025-04-28 16:05:13,164 INFO: Skipping invalid post id: post_message_58203188
+2025-04-28 16:05:13,165 INFO: Skipping invalid post id: post_message_58203317
+2025-04-28 16:05:13,166 INFO: Skipping invalid post id: post_message_58203443
+2025-04-28 16:05:13,166 INFO: Skipping invalid post id: post_message_58203652
+2025-04-28 16:05:13,167 INFO: Skipping invalid post id: post_message_58203696
+2025-04-28 16:05:13,168 INFO: Skipping invalid post id: post_message_58204125
+2025-04-28 16:05:13,168 INFO: Skipping invalid post id: post_message_58204185
+2025-04-28 16:05:13,169 INFO: Skipping invalid post id: post_message_58204205
+2025-04-28 16:05:13,170 INFO: Skipping invalid post id: post_message_58204226
+2025-04-28 16:05:13,170 INFO: Skipping invalid post id: post_message_58204264
+2025-04-28 16:05:13,171 INFO: Skipping invalid post id: post_message_58204265
+2025-04-28 16:05:13,171 INFO: Skipping invalid post id: post_message_58204641
+2025-04-28 16:05:13,172 INFO: Skipping invalid post id: post_message_58205101
+2025-04-28 16:05:13,284 INFO: [Forum_1][Page 1509] Inserted 26 posts
+2025-04-28 16:05:17,706 INFO: Skipping invalid post id: post_message_58205254
+2025-04-28 16:05:17,707 INFO: Skipping invalid post id: post_message_58205563
+2025-04-28 16:05:17,708 INFO: Skipping invalid post id: post_message_58205996
+2025-04-28 16:05:17,708 INFO: Skipping invalid post id: post_message_58206124
+2025-04-28 16:05:17,709 INFO: Skipping invalid post id: post_message_58206376
+2025-04-28 16:05:17,709 INFO: Skipping invalid post id: post_message_58206393
+2025-04-28 16:05:17,710 INFO: Skipping invalid post id: post_message_58206506
+2025-04-28 16:05:17,710 INFO: Skipping invalid post id: post_message_58206595
+2025-04-28 16:05:17,711 INFO: Skipping invalid post id: post_message_58206719
+2025-04-28 16:05:17,711 INFO: Skipping invalid post id: post_message_58206745
+2025-04-28 16:05:17,712 INFO: Skipping invalid post id: post_message_58207002
+2025-04-28 16:05:17,712 INFO: Skipping invalid post id: post_message_58207562
+2025-04-28 16:05:17,713 INFO: Skipping invalid post id: post_message_58207569
+2025-04-28 16:05:17,714 INFO: Skipping invalid post id: post_message_58207624
+2025-04-28 16:05:17,714 INFO: Skipping invalid post id: post_message_58207917
+2025-04-28 16:05:17,715 INFO: Skipping invalid post id: post_message_58208048
+2025-04-28 16:05:17,715 INFO: Skipping invalid post id: post_message_58208686
+2025-04-28 16:05:17,716 INFO: Skipping invalid post id: post_message_58208779
+2025-04-28 16:05:17,716 INFO: Skipping invalid post id: post_message_58209423
+2025-04-28 16:05:17,717 INFO: Skipping invalid post id: post_message_58209435
+2025-04-28 16:05:17,717 INFO: Skipping invalid post id: post_message_58210478
+2025-04-28 16:05:17,718 INFO: Skipping invalid post id: post_message_58210544
+2025-04-28 16:05:17,719 INFO: Skipping invalid post id: post_message_58210806
+2025-04-28 16:05:17,719 INFO: Skipping invalid post id: post_message_58210873
+2025-04-28 16:05:17,720 INFO: Skipping invalid post id: post_message_58211384
+2025-04-28 16:05:17,826 INFO: [Forum_1][Page 1510] Inserted 26 posts
+2025-04-28 16:05:21,710 INFO: Skipping invalid post id: post_message_58211854
+2025-04-28 16:05:21,711 INFO: Skipping invalid post id: post_message_58213207
+2025-04-28 16:05:21,711 INFO: Skipping invalid post id: post_message_58213702
+2025-04-28 16:05:21,712 INFO: Skipping invalid post id: post_message_58213706
+2025-04-28 16:05:21,712 INFO: Skipping invalid post id: post_message_58215516
+2025-04-28 16:05:21,713 INFO: Skipping invalid post id: post_message_58215609
+2025-04-28 16:05:21,713 INFO: Skipping invalid post id: post_message_58215659
+2025-04-28 16:05:21,714 INFO: Skipping invalid post id: post_message_58216170
+2025-04-28 16:05:21,714 INFO: Skipping invalid post id: post_message_58216180
+2025-04-28 16:05:21,714 INFO: Skipping invalid post id: post_message_58216329
+2025-04-28 16:05:21,715 INFO: Skipping invalid post id: post_message_58218038
+2025-04-28 16:05:21,715 INFO: Skipping invalid post id: post_message_58218055
+2025-04-28 16:05:21,715 INFO: Skipping invalid post id: post_message_58218221
+2025-04-28 16:05:21,716 INFO: Skipping invalid post id: post_message_58218417
+2025-04-28 16:05:21,716 INFO: Skipping invalid post id: post_message_58218442
+2025-04-28 16:05:21,717 INFO: Skipping invalid post id: post_message_58218713
+2025-04-28 16:05:21,717 INFO: Skipping invalid post id: post_message_58218931
+2025-04-28 16:05:21,717 INFO: Skipping invalid post id: post_message_58218938
+2025-04-28 16:05:21,718 INFO: Skipping invalid post id: post_message_58219000
+2025-04-28 16:05:21,718 INFO: Skipping invalid post id: post_message_58219018
+2025-04-28 16:05:21,718 INFO: Skipping invalid post id: post_message_58219035
+2025-04-28 16:05:21,718 INFO: Skipping invalid post id: post_message_58219037
+2025-04-28 16:05:21,719 INFO: Skipping invalid post id: post_message_58219047
+2025-04-28 16:05:21,719 INFO: Skipping invalid post id: post_message_58219056
+2025-04-28 16:05:21,720 INFO: Skipping invalid post id: post_message_58219109
+2025-04-28 16:05:21,828 INFO: [Forum_1][Page 1511] Inserted 26 posts
+2025-04-28 16:05:25,673 INFO: Skipping invalid post id: post_message_58219172
+2025-04-28 16:05:25,673 INFO: Skipping invalid post id: post_message_58219192
+2025-04-28 16:05:25,674 INFO: Skipping invalid post id: post_message_58219276
+2025-04-28 16:05:25,674 INFO: Skipping invalid post id: post_message_58219413
+2025-04-28 16:05:25,675 INFO: Skipping invalid post id: post_message_58219433
+2025-04-28 16:05:25,675 INFO: Skipping invalid post id: post_message_58219447
+2025-04-28 16:05:25,675 INFO: Skipping invalid post id: post_message_58219530
+2025-04-28 16:05:25,675 INFO: Skipping invalid post id: post_message_58219535
+2025-04-28 16:05:25,676 INFO: Skipping invalid post id: post_message_58219606
+2025-04-28 16:05:25,677 INFO: Skipping invalid post id: post_message_58219763
+2025-04-28 16:05:25,677 INFO: Skipping invalid post id: post_message_58219830
+2025-04-28 16:05:25,678 INFO: Skipping invalid post id: post_message_58219855
+2025-04-28 16:05:25,678 INFO: Skipping invalid post id: post_message_58219893
+2025-04-28 16:05:25,678 INFO: Skipping invalid post id: post_message_58219910
+2025-04-28 16:05:25,679 INFO: Skipping invalid post id: post_message_58219968
+2025-04-28 16:05:25,680 INFO: Skipping invalid post id: post_message_58219983
+2025-04-28 16:05:25,680 INFO: Skipping invalid post id: post_message_58219991
+2025-04-28 16:05:25,681 INFO: Skipping invalid post id: post_message_58220008
+2025-04-28 16:05:25,681 INFO: Skipping invalid post id: post_message_58220019
+2025-04-28 16:05:25,681 INFO: Skipping invalid post id: post_message_58220054
+2025-04-28 16:05:25,682 INFO: Skipping invalid post id: post_message_58220337
+2025-04-28 16:05:25,682 INFO: Skipping invalid post id: post_message_58220857
+2025-04-28 16:05:25,683 INFO: Skipping invalid post id: post_message_58220935
+2025-04-28 16:05:25,683 INFO: Skipping invalid post id: post_message_58220989
+2025-04-28 16:05:25,684 INFO: Skipping invalid post id: post_message_58221021
+2025-04-28 16:05:25,793 INFO: [Forum_1][Page 1512] Inserted 26 posts
+2025-04-28 16:05:29,254 INFO: Skipping invalid post id: post_message_58221376
+2025-04-28 16:05:29,255 INFO: Skipping invalid post id: post_message_58221463
+2025-04-28 16:05:29,255 INFO: Skipping invalid post id: post_message_58221569
+2025-04-28 16:05:29,256 INFO: Skipping invalid post id: post_message_58221681
+2025-04-28 16:05:29,256 INFO: Skipping invalid post id: post_message_58221682
+2025-04-28 16:05:29,257 INFO: Skipping invalid post id: post_message_58221693
+2025-04-28 16:05:29,257 INFO: Skipping invalid post id: post_message_58221714
+2025-04-28 16:05:29,257 INFO: Skipping invalid post id: post_message_58221786
+2025-04-28 16:05:29,258 INFO: Skipping invalid post id: post_message_58221789
+2025-04-28 16:05:29,258 INFO: Skipping invalid post id: post_message_58221861
+2025-04-28 16:05:29,259 INFO: Skipping invalid post id: post_message_58222267
+2025-04-28 16:05:29,259 INFO: Skipping invalid post id: post_message_58222301
+2025-04-28 16:05:29,260 INFO: Skipping invalid post id: post_message_58222318
+2025-04-28 16:05:29,260 INFO: Skipping invalid post id: post_message_58222355
+2025-04-28 16:05:29,261 INFO: Skipping invalid post id: post_message_58222469
+2025-04-28 16:05:29,261 INFO: Skipping invalid post id: post_message_58222500
+2025-04-28 16:05:29,261 INFO: Skipping invalid post id: post_message_58222510
+2025-04-28 16:05:29,262 INFO: Skipping invalid post id: post_message_58222548
+2025-04-28 16:05:29,262 INFO: Skipping invalid post id: post_message_58222567
+2025-04-28 16:05:29,263 INFO: Skipping invalid post id: post_message_58222573
+2025-04-28 16:05:29,263 INFO: Skipping invalid post id: post_message_58222579
+2025-04-28 16:05:29,264 INFO: Skipping invalid post id: post_message_58222585
+2025-04-28 16:05:29,264 INFO: Skipping invalid post id: post_message_58222638
+2025-04-28 16:05:29,265 INFO: Skipping invalid post id: post_message_58222667
+2025-04-28 16:05:29,265 INFO: Skipping invalid post id: post_message_58222719
+2025-04-28 16:05:29,377 INFO: [Forum_1][Page 1513] Inserted 26 posts
+2025-04-28 16:05:42,685 INFO: Skipping invalid post id: post_message_58223068
+2025-04-28 16:05:42,686 INFO: Skipping invalid post id: post_message_58223106
+2025-04-28 16:05:42,687 INFO: Skipping invalid post id: post_message_58223178
+2025-04-28 16:05:42,688 INFO: Skipping invalid post id: post_message_58223220
+2025-04-28 16:05:42,689 INFO: Skipping invalid post id: post_message_58223236
+2025-04-28 16:05:42,689 INFO: Skipping invalid post id: post_message_58223290
+2025-04-28 16:05:42,690 INFO: Skipping invalid post id: post_message_58223411
+2025-04-28 16:05:42,690 INFO: Skipping invalid post id: post_message_58223412
+2025-04-28 16:05:42,691 INFO: Skipping invalid post id: post_message_58223434
+2025-04-28 16:05:42,691 INFO: Skipping invalid post id: post_message_58224294
+2025-04-28 16:05:42,692 INFO: Skipping invalid post id: post_message_58224317
+2025-04-28 16:05:42,692 INFO: Skipping invalid post id: post_message_58224353
+2025-04-28 16:05:42,693 INFO: Skipping invalid post id: post_message_58224354
+2025-04-28 16:05:42,694 INFO: Skipping invalid post id: post_message_58224380
+2025-04-28 16:05:42,694 INFO: Skipping invalid post id: post_message_58225030
+2025-04-28 16:05:42,695 INFO: Skipping invalid post id: post_message_58225033
+2025-04-28 16:05:42,696 INFO: Skipping invalid post id: post_message_58225036
+2025-04-28 16:05:42,696 INFO: Skipping invalid post id: post_message_58225575
+2025-04-28 16:05:42,697 INFO: Skipping invalid post id: post_message_58225654
+2025-04-28 16:05:42,697 INFO: Skipping invalid post id: post_message_58225745
+2025-04-28 16:05:42,698 INFO: Skipping invalid post id: post_message_58226119
+2025-04-28 16:05:42,699 INFO: Skipping invalid post id: post_message_58226125
+2025-04-28 16:05:42,699 INFO: Skipping invalid post id: post_message_58226142
+2025-04-28 16:05:42,700 INFO: Skipping invalid post id: post_message_58226173
+2025-04-28 16:05:42,701 INFO: Skipping invalid post id: post_message_58226287
+2025-04-28 16:05:42,816 INFO: [Forum_1][Page 1514] Inserted 26 posts
+2025-04-28 16:05:45,844 INFO: Skipping invalid post id: post_message_58226388
+2025-04-28 16:05:45,845 INFO: Skipping invalid post id: post_message_58226538
+2025-04-28 16:05:45,845 INFO: Skipping invalid post id: post_message_58226616
+2025-04-28 16:05:45,846 INFO: Skipping invalid post id: post_message_58226703
+2025-04-28 16:05:45,847 INFO: Skipping invalid post id: post_message_58226733
+2025-04-28 16:05:45,847 INFO: Skipping invalid post id: post_message_58226741
+2025-04-28 16:05:45,848 INFO: Skipping invalid post id: post_message_58226800
+2025-04-28 16:05:45,849 INFO: Skipping invalid post id: post_message_58226876
+2025-04-28 16:05:45,849 INFO: Skipping invalid post id: post_message_58227017
+2025-04-28 16:05:45,850 INFO: Skipping invalid post id: post_message_58227098
+2025-04-28 16:05:45,850 INFO: Skipping invalid post id: post_message_58227121
+2025-04-28 16:05:45,851 INFO: Skipping invalid post id: post_message_58227161
+2025-04-28 16:05:45,852 INFO: Skipping invalid post id: post_message_58228852
+2025-04-28 16:05:45,852 INFO: Skipping invalid post id: post_message_58228853
+2025-04-28 16:05:45,853 INFO: Skipping invalid post id: post_message_58228856
+2025-04-28 16:05:45,853 INFO: Skipping invalid post id: post_message_58228857
+2025-04-28 16:05:45,854 INFO: Skipping invalid post id: post_message_58228859
+2025-04-28 16:05:45,854 INFO: Skipping invalid post id: post_message_58228862
+2025-04-28 16:05:45,855 INFO: Skipping invalid post id: post_message_58228863
+2025-04-28 16:05:45,855 INFO: Skipping invalid post id: post_message_58228868
+2025-04-28 16:05:45,856 INFO: Skipping invalid post id: post_message_58228873
+2025-04-28 16:05:45,856 INFO: Skipping invalid post id: post_message_58228954
+2025-04-28 16:05:45,857 INFO: Skipping invalid post id: post_message_58228971
+2025-04-28 16:05:45,858 INFO: Skipping invalid post id: post_message_58228981
+2025-04-28 16:05:45,858 INFO: Skipping invalid post id: post_message_58229390
+2025-04-28 16:05:45,991 INFO: [Forum_1][Page 1515] Inserted 26 posts
+2025-04-28 16:05:51,240 INFO: Skipping invalid post id: post_message_58229474
+2025-04-28 16:05:51,240 INFO: Skipping invalid post id: post_message_58229767
+2025-04-28 16:05:51,242 INFO: Skipping invalid post id: post_message_58229908
+2025-04-28 16:05:51,242 INFO: Skipping invalid post id: post_message_58229941
+2025-04-28 16:05:51,243 INFO: Skipping invalid post id: post_message_58230249
+2025-04-28 16:05:51,243 INFO: Skipping invalid post id: post_message_58230250
+2025-04-28 16:05:51,244 INFO: Skipping invalid post id: post_message_58230285
+2025-04-28 16:05:51,245 INFO: Skipping invalid post id: post_message_58230352
+2025-04-28 16:05:51,245 INFO: Skipping invalid post id: post_message_58230450
+2025-04-28 16:05:51,245 INFO: Skipping invalid post id: post_message_58230849
+2025-04-28 16:05:51,246 INFO: Skipping invalid post id: post_message_58230875
+2025-04-28 16:05:51,247 INFO: Skipping invalid post id: post_message_58231312
+2025-04-28 16:05:51,247 INFO: Skipping invalid post id: post_message_58231329
+2025-04-28 16:05:51,247 INFO: Skipping invalid post id: post_message_58231471
+2025-04-28 16:05:51,248 INFO: Skipping invalid post id: post_message_58231486
+2025-04-28 16:05:51,249 INFO: Skipping invalid post id: post_message_58231687
+2025-04-28 16:05:51,249 INFO: Skipping invalid post id: post_message_58231713
+2025-04-28 16:05:51,250 INFO: Skipping invalid post id: post_message_58232063
+2025-04-28 16:05:51,250 INFO: Skipping invalid post id: post_message_58232819
+2025-04-28 16:05:51,251 INFO: Skipping invalid post id: post_message_58232914
+2025-04-28 16:05:51,251 INFO: Skipping invalid post id: post_message_58233460
+2025-04-28 16:05:51,252 INFO: Skipping invalid post id: post_message_58233526
+2025-04-28 16:05:51,252 INFO: Skipping invalid post id: post_message_58234997
+2025-04-28 16:05:51,253 INFO: Skipping invalid post id: post_message_58235043
+2025-04-28 16:05:51,253 INFO: Skipping invalid post id: post_message_58235062
+2025-04-28 16:05:51,380 INFO: [Forum_1][Page 1516] Inserted 26 posts
+2025-04-28 16:05:55,265 INFO: Skipping invalid post id: post_message_58235141
+2025-04-28 16:05:55,266 INFO: Skipping invalid post id: post_message_58237434
+2025-04-28 16:05:55,267 INFO: Skipping invalid post id: post_message_58238110
+2025-04-28 16:05:55,267 INFO: Skipping invalid post id: post_message_58238486
+2025-04-28 16:05:55,268 INFO: Skipping invalid post id: post_message_58238760
+2025-04-28 16:05:55,268 INFO: Skipping invalid post id: post_message_58239413
+2025-04-28 16:05:55,269 INFO: Skipping invalid post id: post_message_58239429
+2025-04-28 16:05:55,270 INFO: Skipping invalid post id: post_message_58239625
+2025-04-28 16:05:55,270 INFO: Skipping invalid post id: post_message_58239723
+2025-04-28 16:05:55,271 INFO: Skipping invalid post id: post_message_58239729
+2025-04-28 16:05:55,271 INFO: Skipping invalid post id: post_message_58239774
+2025-04-28 16:05:55,272 INFO: Skipping invalid post id: post_message_58240183
+2025-04-28 16:05:55,272 INFO: Skipping invalid post id: post_message_58240281
+2025-04-28 16:05:55,273 INFO: Skipping invalid post id: post_message_58240597
+2025-04-28 16:05:55,274 INFO: Skipping invalid post id: post_message_58240993
+2025-04-28 16:05:55,274 INFO: Skipping invalid post id: post_message_58241113
+2025-04-28 16:05:55,275 INFO: Skipping invalid post id: post_message_58241416
+2025-04-28 16:05:55,276 INFO: Skipping invalid post id: post_message_58241674
+2025-04-28 16:05:55,276 INFO: Skipping invalid post id: post_message_58242010
+2025-04-28 16:05:55,277 INFO: Skipping invalid post id: post_message_58242042
+2025-04-28 16:05:55,277 INFO: Skipping invalid post id: post_message_58243031
+2025-04-28 16:05:55,278 INFO: Skipping invalid post id: post_message_58243102
+2025-04-28 16:05:55,279 INFO: Skipping invalid post id: post_message_58243365
+2025-04-28 16:05:55,279 INFO: Skipping invalid post id: post_message_58244302
+2025-04-28 16:05:55,280 INFO: Skipping invalid post id: post_message_58244863
+2025-04-28 16:05:55,407 INFO: [Forum_1][Page 1517] Inserted 26 posts
+2025-04-28 16:05:58,838 INFO: Skipping invalid post id: post_message_58244920
+2025-04-28 16:05:58,839 INFO: Skipping invalid post id: post_message_58245783
+2025-04-28 16:05:58,839 INFO: Skipping invalid post id: post_message_58245818
+2025-04-28 16:05:58,839 INFO: Skipping invalid post id: post_message_58245888
+2025-04-28 16:05:58,840 INFO: Skipping invalid post id: post_message_58247984
+2025-04-28 16:05:58,841 INFO: Skipping invalid post id: post_message_58249523
+2025-04-28 16:05:58,841 INFO: Skipping invalid post id: post_message_58252936
+2025-04-28 16:05:58,842 INFO: Skipping invalid post id: post_message_58253266
+2025-04-28 16:05:58,842 INFO: Skipping invalid post id: post_message_58253311
+2025-04-28 16:05:58,842 INFO: Skipping invalid post id: post_message_58253441
+2025-04-28 16:05:58,842 INFO: Skipping invalid post id: post_message_58253935
+2025-04-28 16:05:58,843 INFO: Skipping invalid post id: post_message_58254601
+2025-04-28 16:05:58,843 INFO: Skipping invalid post id: post_message_58254622
+2025-04-28 16:05:58,843 INFO: Skipping invalid post id: post_message_58254628
+2025-04-28 16:05:58,844 INFO: Skipping invalid post id: post_message_58255012
+2025-04-28 16:05:58,844 INFO: Skipping invalid post id: post_message_58255321
+2025-04-28 16:05:58,845 INFO: Skipping invalid post id: post_message_58255327
+2025-04-28 16:05:58,845 INFO: Skipping invalid post id: post_message_58255442
+2025-04-28 16:05:58,846 INFO: Skipping invalid post id: post_message_58255469
+2025-04-28 16:05:58,846 INFO: Skipping invalid post id: post_message_58255711
+2025-04-28 16:05:58,846 INFO: Skipping invalid post id: post_message_58255729
+2025-04-28 16:05:58,847 INFO: Skipping invalid post id: post_message_58255940
+2025-04-28 16:05:58,847 INFO: Skipping invalid post id: post_message_58256055
+2025-04-28 16:05:58,848 INFO: Skipping invalid post id: post_message_58256171
+2025-04-28 16:05:58,848 INFO: Skipping invalid post id: post_message_58256843
+2025-04-28 16:05:58,959 INFO: [Forum_1][Page 1518] Inserted 26 posts
+2025-04-28 16:06:02,677 INFO: Skipping invalid post id: post_message_58256857
+2025-04-28 16:06:02,678 INFO: Skipping invalid post id: post_message_58256988
+2025-04-28 16:06:02,679 INFO: Skipping invalid post id: post_message_58257637
+2025-04-28 16:06:02,679 INFO: Skipping invalid post id: post_message_58257645
+2025-04-28 16:06:02,680 INFO: Skipping invalid post id: post_message_58258506
+2025-04-28 16:06:02,681 INFO: Skipping invalid post id: post_message_58258589
+2025-04-28 16:06:02,682 INFO: Skipping invalid post id: post_message_58258595
+2025-04-28 16:06:02,683 INFO: Skipping invalid post id: post_message_58258680
+2025-04-28 16:06:02,683 INFO: Skipping invalid post id: post_message_58258697
+2025-04-28 16:06:02,684 INFO: Skipping invalid post id: post_message_58258725
+2025-04-28 16:06:02,685 INFO: Skipping invalid post id: post_message_58258732
+2025-04-28 16:06:02,686 INFO: Skipping invalid post id: post_message_58259219
+2025-04-28 16:06:02,687 INFO: Skipping invalid post id: post_message_58259221
+2025-04-28 16:06:02,688 INFO: Skipping invalid post id: post_message_58259363
+2025-04-28 16:06:02,689 INFO: Skipping invalid post id: post_message_58259720
+2025-04-28 16:06:02,689 INFO: Skipping invalid post id: post_message_58259756
+2025-04-28 16:06:02,690 INFO: Skipping invalid post id: post_message_58259763
+2025-04-28 16:06:02,691 INFO: Skipping invalid post id: post_message_58259888
+2025-04-28 16:06:02,692 INFO: Skipping invalid post id: post_message_58259920
+2025-04-28 16:06:02,692 INFO: Skipping invalid post id: post_message_58260415
+2025-04-28 16:06:02,693 INFO: Skipping invalid post id: post_message_58260427
+2025-04-28 16:06:02,694 INFO: Skipping invalid post id: post_message_58260877
+2025-04-28 16:06:02,695 INFO: Skipping invalid post id: post_message_58260991
+2025-04-28 16:06:02,696 INFO: Skipping invalid post id: post_message_58261109
+2025-04-28 16:06:02,697 INFO: Skipping invalid post id: post_message_58261379
+2025-04-28 16:06:02,804 INFO: [Forum_1][Page 1519] Inserted 26 posts
+2025-04-28 16:06:06,705 INFO: Skipping invalid post id: post_message_58261918
+2025-04-28 16:06:06,705 INFO: Skipping invalid post id: post_message_58261945
+2025-04-28 16:06:06,706 INFO: Skipping invalid post id: post_message_58262783
+2025-04-28 16:06:06,706 INFO: Skipping invalid post id: post_message_58262828
+2025-04-28 16:06:06,707 INFO: Skipping invalid post id: post_message_58263479
+2025-04-28 16:06:06,708 INFO: Skipping invalid post id: post_message_58263575
+2025-04-28 16:06:06,708 INFO: Skipping invalid post id: post_message_58263585
+2025-04-28 16:06:06,709 INFO: Skipping invalid post id: post_message_58263759
+2025-04-28 16:06:06,709 INFO: Skipping invalid post id: post_message_58264280
+2025-04-28 16:06:06,710 INFO: Skipping invalid post id: post_message_58264498
+2025-04-28 16:06:06,710 INFO: Skipping invalid post id: post_message_58267025
+2025-04-28 16:06:06,711 INFO: Skipping invalid post id: post_message_58267530
+2025-04-28 16:06:06,712 INFO: Skipping invalid post id: post_message_58267540
+2025-04-28 16:06:06,713 INFO: Skipping invalid post id: post_message_58267551
+2025-04-28 16:06:06,713 INFO: Skipping invalid post id: post_message_58267743
+2025-04-28 16:06:06,714 INFO: Skipping invalid post id: post_message_58267748
+2025-04-28 16:06:06,714 INFO: Skipping invalid post id: post_message_58267750
+2025-04-28 16:06:06,715 INFO: Skipping invalid post id: post_message_58267751
+2025-04-28 16:06:06,716 INFO: Skipping invalid post id: post_message_58267754
+2025-04-28 16:06:06,716 INFO: Skipping invalid post id: post_message_58267850
+2025-04-28 16:06:06,716 INFO: Skipping invalid post id: post_message_58267898
+2025-04-28 16:06:06,717 INFO: Skipping invalid post id: post_message_58267906
+2025-04-28 16:06:06,718 INFO: Skipping invalid post id: post_message_58267976
+2025-04-28 16:06:06,719 INFO: Skipping invalid post id: post_message_58268185
+2025-04-28 16:06:06,719 INFO: Skipping invalid post id: post_message_58268326
+2025-04-28 16:06:06,831 INFO: [Forum_1][Page 1520] Inserted 26 posts
+2025-04-28 16:06:42,963 INFO: package: mysql.connector.plugins
+2025-04-28 16:06:42,964 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:06:42,964 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:06:42,971 INFO: Starting Forum_1 at page 1521
+2025-04-28 16:06:44,127 INFO: [Forum_1][Page 1521] Inserted 25 posts
+2025-04-28 16:06:51,397 INFO: [Forum_1][Page 1522] Inserted 25 posts
+2025-04-28 16:06:55,143 INFO: [Forum_1][Page 1523] Inserted 25 posts
+2025-04-28 16:06:58,509 INFO: [Forum_1][Page 1524] Inserted 25 posts
+2025-04-28 16:07:02,972 INFO: [Forum_1][Page 1525] Inserted 25 posts
+2025-04-28 16:07:06,380 INFO: [Forum_1][Page 1526] Inserted 25 posts
+2025-04-28 16:07:10,323 INFO: [Forum_1][Page 1527] Inserted 25 posts
+2025-04-28 16:07:15,147 INFO: [Forum_1][Page 1528] Inserted 25 posts
+2025-04-28 16:07:21,258 INFO: [Forum_1][Page 1529] Inserted 25 posts
+2025-04-28 16:07:25,768 INFO: [Forum_1][Page 1530] Inserted 25 posts
+2025-04-28 16:07:29,950 INFO: Skipping post58359445: empty content
+2025-04-28 16:07:30,043 INFO: [Forum_1][Page 1531] Inserted 24 posts
+2025-04-28 16:07:34,703 INFO: [Forum_1][Page 1532] Inserted 25 posts
+2025-04-28 16:07:38,484 INFO: [Forum_1][Page 1533] Inserted 25 posts
+2025-04-28 16:07:42,592 INFO: [Forum_1][Page 1534] Inserted 25 posts
+2025-04-28 16:07:46,608 INFO: [Forum_1][Page 1535] Inserted 25 posts
+2025-04-28 16:07:53,951 INFO: [Forum_1][Page 1536] Inserted 25 posts
+2025-04-28 16:07:57,503 INFO: [Forum_1][Page 1537] Inserted 25 posts
+2025-04-28 16:08:01,631 INFO: Skipping post58387105: empty content
+2025-04-28 16:08:01,730 INFO: [Forum_1][Page 1538] Inserted 24 posts
+2025-04-28 16:08:10,081 INFO: Skipping post58387791: empty content
+2025-04-28 16:08:10,180 INFO: [Forum_1][Page 1539] Inserted 24 posts
+2025-04-28 16:08:16,033 INFO: Skipping post58389651: empty content
+2025-04-28 16:08:16,128 INFO: [Forum_1][Page 1540] Inserted 24 posts
+2025-04-28 16:08:19,825 INFO: Skipping post58393110: empty content
+2025-04-28 16:08:19,923 INFO: [Forum_1][Page 1541] Inserted 24 posts
+2025-04-28 16:08:23,774 INFO: Skipping post58394692: empty content
+2025-04-28 16:08:23,870 INFO: [Forum_1][Page 1542] Inserted 24 posts
+2025-04-28 16:08:27,694 INFO: [Forum_1][Page 1543] Inserted 25 posts
+2025-04-28 16:08:32,260 INFO: [Forum_1][Page 1544] Inserted 25 posts
+2025-04-28 16:08:36,552 INFO: [Forum_1][Page 1545] Inserted 25 posts
+2025-04-28 16:08:40,600 INFO: [Forum_1][Page 1546] Inserted 25 posts
+2025-04-28 16:08:44,352 INFO: [Forum_1][Page 1547] Inserted 25 posts
+2025-04-28 16:08:49,927 INFO: [Forum_1][Page 1548] Inserted 25 posts
+2025-04-28 16:08:56,085 INFO: [Forum_1][Page 1549] Inserted 25 posts
+2025-04-28 16:09:00,067 INFO: [Forum_1][Page 1550] Inserted 25 posts
+2025-04-28 16:09:03,989 INFO: [Forum_1][Page 1551] Inserted 25 posts
+2025-04-28 16:09:09,230 INFO: [Forum_1][Page 1552] Inserted 25 posts
+2025-04-28 16:09:14,068 INFO: [Forum_1][Page 1553] Inserted 25 posts
+2025-04-28 16:09:18,349 INFO: [Forum_1][Page 1554] Inserted 25 posts
+2025-04-28 16:09:25,788 INFO: [Forum_1][Page 1555] Inserted 25 posts
+2025-04-28 16:09:29,508 INFO: [Forum_1][Page 1556] Inserted 25 posts
+2025-04-28 16:09:34,578 INFO: [Forum_1][Page 1557] Inserted 25 posts
+2025-04-28 16:09:38,594 INFO: Skipping post58583456: empty content
+2025-04-28 16:09:38,704 INFO: [Forum_1][Page 1558] Inserted 24 posts
+2025-04-28 16:09:43,314 INFO: [Forum_1][Page 1559] Inserted 25 posts
+2025-04-28 16:09:47,646 INFO: [Forum_1][Page 1560] Inserted 25 posts
+2025-04-28 16:09:51,606 INFO: [Forum_1][Page 1561] Inserted 25 posts
+2025-04-28 16:09:54,566 INFO: [Forum_1][Page 1562] Inserted 25 posts
+2025-04-28 16:09:58,172 INFO: [Forum_1][Page 1563] Inserted 25 posts
+2025-04-28 16:10:02,318 INFO: [Forum_1][Page 1564] Inserted 25 posts
+2025-04-28 16:10:07,012 INFO: [Forum_1][Page 1565] Inserted 25 posts
+2025-04-28 16:10:10,995 INFO: [Forum_1][Page 1566] Inserted 25 posts
+2025-04-28 16:10:15,154 INFO: [Forum_1][Page 1567] Inserted 25 posts
+2025-04-28 16:10:18,911 INFO: [Forum_1][Page 1568] Inserted 25 posts
+2025-04-28 16:10:31,738 INFO: [Forum_1][Page 1569] Inserted 25 posts
+2025-04-28 16:10:36,545 INFO: [Forum_1][Page 1570] Inserted 25 posts
+2025-04-28 16:10:40,772 INFO: [Forum_1][Page 1571] Inserted 25 posts
+2025-04-28 16:10:44,422 INFO: [Forum_1][Page 1572] Inserted 25 posts
+2025-04-28 16:10:47,692 INFO: [Forum_1][Page 1573] Inserted 25 posts
+2025-04-28 16:10:52,394 INFO: [Forum_1][Page 1574] Inserted 25 posts
+2025-04-28 16:10:56,376 INFO: [Forum_1][Page 1575] Inserted 25 posts
+2025-04-28 16:11:01,871 INFO: [Forum_1][Page 1576] Inserted 25 posts
+2025-04-28 16:11:05,780 INFO: [Forum_1][Page 1577] Inserted 25 posts
+2025-04-28 16:11:09,833 INFO: [Forum_1][Page 1578] Inserted 25 posts
+2025-04-28 16:11:14,733 INFO: [Forum_1][Page 1579] Inserted 25 posts
+2025-04-28 16:11:18,197 INFO: [Forum_1][Page 1580] Inserted 25 posts
+2025-04-28 16:11:21,052 INFO: [Forum_1][Page 1581] Inserted 25 posts
+2025-04-28 16:11:27,927 INFO: [Forum_1][Page 1582] Inserted 25 posts
+2025-04-28 16:11:32,661 INFO: [Forum_1][Page 1583] Inserted 25 posts
+2025-04-28 16:11:36,737 INFO: [Forum_1][Page 1584] Inserted 25 posts
+2025-04-28 16:11:40,509 INFO: [Forum_1][Page 1585] Inserted 25 posts
+2025-04-28 16:11:43,512 INFO: Skipping post58927588: empty content
+2025-04-28 16:11:43,605 INFO: [Forum_1][Page 1586] Inserted 24 posts
+2025-04-28 16:11:47,720 INFO: [Forum_1][Page 1587] Inserted 25 posts
+2025-04-28 16:11:50,241 INFO: Skipping post58944526: empty content
+2025-04-28 16:11:50,342 INFO: [Forum_1][Page 1588] Inserted 24 posts
+2025-04-28 16:11:52,143 INFO: [Forum_1][Page 1589] Inserted 2 posts
+2025-04-28 16:11:53,721 INFO: Skipping duplicate post: post58960898
+2025-04-28 16:11:53,722 INFO: Skipping duplicate post: post58962520
+2025-04-28 16:11:53,722 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 16:11:53,724 INFO: Starting Forum_2 at page 1
+2025-04-28 16:11:57,721 INFO: [Forum_2][Page 1] Inserted 25 posts
+2025-04-28 16:12:00,188 INFO: [Forum_2][Page 2] Inserted 25 posts
+2025-04-28 16:12:05,178 INFO: [Forum_2][Page 3] Inserted 25 posts
+2025-04-28 16:12:07,659 INFO: Skipping post58403215: empty content
+2025-04-28 16:12:07,756 INFO: [Forum_2][Page 4] Inserted 24 posts
+2025-04-28 16:12:10,518 INFO: [Forum_2][Page 5] Inserted 25 posts
+2025-04-28 16:12:17,916 INFO: Skipping post58404233: empty content
+2025-04-28 16:12:18,014 INFO: [Forum_2][Page 6] Inserted 24 posts
+2025-04-28 16:12:21,659 INFO: Skipping post58404416: empty content
+2025-04-28 16:12:21,763 INFO: [Forum_2][Page 7] Inserted 24 posts
+2025-04-28 16:12:24,208 INFO: Skipping post58404616: empty content
+2025-04-28 16:12:24,308 INFO: [Forum_2][Page 8] Inserted 24 posts
+2025-04-28 16:12:26,665 INFO: Skipping post58405064: empty content
+2025-04-28 16:12:26,763 INFO: [Forum_2][Page 9] Inserted 24 posts
+2025-04-28 16:12:29,529 INFO: Skipping post58405371: empty content
+2025-04-28 16:12:29,628 INFO: [Forum_2][Page 10] Inserted 24 posts
+2025-04-28 16:12:32,203 INFO: [Forum_2][Page 11] Inserted 25 posts
+2025-04-28 16:12:38,660 INFO: [Forum_2][Page 12] Inserted 25 posts
+2025-04-28 16:12:41,811 INFO: [Forum_2][Page 13] Inserted 25 posts
+2025-04-28 16:13:00,021 INFO: [Forum_2][Page 14] Inserted 25 posts
+2025-04-28 16:13:02,817 INFO: [Forum_2][Page 15] Inserted 25 posts
+2025-04-28 16:13:05,315 INFO: [Forum_2][Page 16] Inserted 25 posts
+2025-04-28 16:13:07,931 INFO: [Forum_2][Page 17] Inserted 25 posts
+2025-04-28 16:13:10,399 INFO: [Forum_2][Page 18] Inserted 25 posts
+2025-04-28 16:13:15,831 INFO: [Forum_2][Page 19] Inserted 25 posts
+2025-04-28 16:13:18,514 INFO: [Forum_2][Page 20] Inserted 25 posts
+2025-04-28 16:13:28,802 INFO: [Forum_2][Page 21] Inserted 25 posts
+2025-04-28 16:13:32,239 INFO: Skipping post58431883: empty content
+2025-04-28 16:13:32,241 INFO: Skipping post58433773: empty content
+2025-04-28 16:13:32,343 INFO: [Forum_2][Page 22] Inserted 23 posts
+2025-04-28 16:13:35,760 INFO: [Forum_2][Page 23] Inserted 25 posts
+2025-04-28 16:13:38,363 INFO: [Forum_2][Page 24] Inserted 25 posts
+2025-04-28 16:13:40,866 INFO: [Forum_2][Page 25] Inserted 25 posts
+2025-04-28 16:13:43,247 INFO: Skipping post58521883: empty content
+2025-04-28 16:13:43,364 INFO: [Forum_2][Page 26] Inserted 24 posts
+2025-04-28 16:13:47,315 INFO: [Forum_2][Page 27] Inserted 25 posts
+2025-04-28 16:13:49,708 INFO: [Forum_2][Page 28] Inserted 25 posts
+2025-04-28 16:13:57,720 INFO: [Forum_2][Page 29] Inserted 25 posts
+2025-04-28 16:14:04,965 INFO: [Forum_2][Page 30] Inserted 25 posts
+2025-04-28 16:14:07,442 INFO: [Forum_2][Page 31] Inserted 25 posts
+2025-04-28 16:14:10,007 INFO: [Forum_2][Page 32] Inserted 25 posts
+2025-04-28 16:14:12,525 INFO: [Forum_2][Page 33] Inserted 25 posts
+2025-04-28 16:14:14,719 INFO: [Forum_2][Page 34] Inserted 12 posts
+2025-04-28 16:14:16,741 INFO: Skipping duplicate post: post58739824
+2025-04-28 16:14:16,742 INFO: Skipping duplicate post: post58739841
+2025-04-28 16:14:16,742 INFO: Skipping duplicate post: post58756598
+2025-04-28 16:14:16,743 INFO: Skipping duplicate post: post58756861
+2025-04-28 16:14:16,743 INFO: Skipping duplicate post: post58756972
+2025-04-28 16:14:16,744 INFO: Skipping duplicate post: post58757347
+2025-04-28 16:14:16,744 INFO: Skipping duplicate post: post58759310
+2025-04-28 16:14:16,744 INFO: Skipping duplicate post: post58759495
+2025-04-28 16:14:16,745 INFO: Skipping duplicate post: post58780300
+2025-04-28 16:14:16,745 INFO: Skipping duplicate post: post58780541
+2025-04-28 16:14:16,745 INFO: Skipping duplicate post: post58846992
+2025-04-28 16:14:16,746 INFO: Skipping duplicate post: post58847773
+2025-04-28 16:14:16,746 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 16:58:13,619 INFO: package: mysql.connector.plugins
+2025-04-28 16:58:13,620 INFO: plugin_name: caching_sha2_password
+2025-04-28 16:58:13,620 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 16:58:13,635 INFO: Starting Forum_1 at page 1590
+2025-04-28 16:58:14,657 INFO: Skipping duplicate post: post58960898
+2025-04-28 16:58:14,658 INFO: Skipping duplicate post: post58962520
+2025-04-28 16:58:14,658 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 16:58:14,666 INFO: Starting Forum_2 at page 35
+2025-04-28 16:58:16,991 INFO: Skipping duplicate post: post58739824
+2025-04-28 16:58:16,995 INFO: Skipping duplicate post: post58739841
+2025-04-28 16:58:16,996 INFO: Skipping duplicate post: post58756598
+2025-04-28 16:58:16,996 INFO: Skipping duplicate post: post58756861
+2025-04-28 16:58:16,997 INFO: Skipping duplicate post: post58756972
+2025-04-28 16:58:16,997 INFO: Skipping duplicate post: post58757347
+2025-04-28 16:58:16,998 INFO: Skipping duplicate post: post58759310
+2025-04-28 16:58:16,999 INFO: Skipping duplicate post: post58759495
+2025-04-28 16:58:16,999 INFO: Skipping duplicate post: post58780300
+2025-04-28 16:58:17,000 INFO: Skipping duplicate post: post58780541
+2025-04-28 16:58:17,000 INFO: Skipping duplicate post: post58846992
+2025-04-28 16:58:17,001 INFO: Skipping duplicate post: post58847773
+2025-04-28 16:58:17,001 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 16:58:17,002 INFO: Starting Twitter scraper
+2025-04-28 16:58:17,116 INFO: Fetching tweets from 2025-04-21T22:58:17Z to 2025-04-28T22:57:17Z
+2025-04-28 17:01:06,834 INFO: package: mysql.connector.plugins
+2025-04-28 17:01:06,835 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:01:06,836 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:01:06,854 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:01:07,872 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:01:07,873 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:01:07,873 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:01:07,881 INFO: Starting Forum_2 at page 35
+2025-04-28 17:01:09,022 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:01:09,023 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:01:09,023 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:01:09,024 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:01:09,024 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:01:09,025 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:01:09,026 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:01:09,027 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:01:09,028 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:01:09,028 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:01:09,029 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:01:09,030 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:01:09,030 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:01:09,031 INFO: Starting Twitter scraper
+2025-04-28 17:01:09,166 INFO: Fetching tweets from 2025-04-21T23:01:09Z to 2025-04-28T23:00:09Z
+2025-04-28 17:03:18,882 INFO: package: mysql.connector.plugins
+2025-04-28 17:03:18,882 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:03:18,883 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:03:18,897 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:03:19,877 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:03:19,877 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:03:19,878 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:03:19,887 INFO: Starting Forum_2 at page 35
+2025-04-28 17:03:29,549 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:03:29,550 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:03:29,551 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:03:29,551 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:03:29,552 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:03:29,553 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:03:29,553 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:03:29,554 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:03:29,554 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:03:29,555 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:03:29,556 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:03:29,556 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:03:29,557 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:03:29,557 INFO: Starting Twitter scraper
+2025-04-28 17:03:29,692 INFO: Fetching tweets from 2025-04-21T23:03:29Z to 2025-04-28T23:02:29Z
+2025-04-28 17:03:30,216 INFO: Skipping tweet 1916965869462192221: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916631855014572364: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916618634329460760: missing author_id
+2025-04-28 17:03:30,217 INFO: Skipping tweet 1916611065187877182: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916610528299929667: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916608053035626698: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916575847483326772: missing author_id
+2025-04-28 17:03:30,218 INFO: Skipping tweet 1916575531597959341: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916575090231115843: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916574414713299013: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916574070474211448: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916573736741884044: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916573262982549989: missing author_id
+2025-04-28 17:03:30,219 INFO: Skipping tweet 1916571152933069273: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916568508109906109: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916564288765837480: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916557757588570195: missing author_id
+2025-04-28 17:03:30,220 INFO: Skipping tweet 1916555944042901702: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916555850325373436: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916554266577187256: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916554075472089245: missing author_id
+2025-04-28 17:03:30,221 INFO: Skipping tweet 1916551197873369504: missing author_id
+2025-04-28 17:03:30,225 INFO: Skipping tweet 1916547581968109971: missing author_id
+2025-04-28 17:03:30,225 INFO: Skipping tweet 1916547408005054784: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546898678223155: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546337803296969: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916546025138926017: missing author_id
+2025-04-28 17:03:30,226 INFO: Skipping tweet 1916545204653326770: missing author_id
+2025-04-28 17:03:30,227 INFO: Skipping tweet 1916544474651537622: missing author_id
+2025-04-28 17:03:30,227 INFO: Skipping tweet 1916544351146061913: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916544162486276448: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916543945359733167: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916536136471597535: missing author_id
+2025-04-28 17:03:30,228 INFO: Skipping tweet 1916534913748111524: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916533138542518484: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916530660124020965: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916523104995623023: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916503741878145450: missing author_id
+2025-04-28 17:03:30,229 INFO: Skipping tweet 1916477873050767752: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916304180102176797: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916286088450101595: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1916262634401263819: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1915959919984996584: missing author_id
+2025-04-28 17:03:30,230 INFO: Skipping tweet 1915885614773530767: missing author_id
+2025-04-28 17:03:30,231 INFO: Skipping tweet 1915743555311525944: missing author_id
+2025-04-28 17:03:30,231 INFO: Skipping tweet 1915499686494151108: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915384960602538485: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915247695071002803: missing author_id
+2025-04-28 17:03:30,232 INFO: Skipping tweet 1915145160276795490: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914795538525868130: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914794550956077328: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914792801151181224: missing author_id
+2025-04-28 17:03:30,233 INFO: Skipping tweet 1914786774871666692: missing author_id
+2025-04-28 17:03:30,234 INFO: Skipping tweet 1914784298508673526: missing author_id
+2025-04-28 17:03:30,234 INFO: Skipping tweet 1914690785678606660: missing author_id
+2025-04-28 17:03:30,235 INFO: Skipping tweet 1914676063101141445: missing author_id
+2025-04-28 17:03:30,235 INFO: Skipping tweet 1914610596462416191: missing author_id
+2025-04-28 17:03:30,236 INFO: Skipping tweet 1914549240375988715: missing author_id
+2025-04-28 17:03:30,236 INFO: Skipping tweet 1914461293257294224: missing author_id
+2025-04-28 17:03:30,238 INFO: Inserted 0 new tweets.
+2025-04-28 17:05:14,618 INFO: package: mysql.connector.plugins
+2025-04-28 17:05:14,619 INFO: plugin_name: caching_sha2_password
+2025-04-28 17:05:14,619 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-28 17:05:14,639 INFO: Starting Forum_1 at page 1590
+2025-04-28 17:05:15,741 INFO: Skipping duplicate post: post58960898
+2025-04-28 17:05:15,742 INFO: Skipping duplicate post: post58962520
+2025-04-28 17:05:15,743 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-28 17:05:15,750 INFO: Starting Forum_2 at page 35
+2025-04-28 17:05:16,977 INFO: Skipping duplicate post: post58739824
+2025-04-28 17:05:16,978 INFO: Skipping duplicate post: post58739841
+2025-04-28 17:05:16,979 INFO: Skipping duplicate post: post58756598
+2025-04-28 17:05:16,980 INFO: Skipping duplicate post: post58756861
+2025-04-28 17:05:16,980 INFO: Skipping duplicate post: post58756972
+2025-04-28 17:05:16,982 INFO: Skipping duplicate post: post58757347
+2025-04-28 17:05:16,982 INFO: Skipping duplicate post: post58759310
+2025-04-28 17:05:16,983 INFO: Skipping duplicate post: post58759495
+2025-04-28 17:05:16,984 INFO: Skipping duplicate post: post58780300
+2025-04-28 17:05:16,984 INFO: Skipping duplicate post: post58780541
+2025-04-28 17:05:16,985 INFO: Skipping duplicate post: post58846992
+2025-04-28 17:05:16,986 INFO: Skipping duplicate post: post58847773
+2025-04-28 17:05:16,986 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-28 17:05:16,988 INFO: Starting Twitter scraper
+2025-04-28 17:05:17,110 INFO: Fetching tweets from 2025-04-21T23:05:17Z to 2025-04-28T23:04:17Z
+2025-04-28 17:05:17,852 INFO: Inserted 59 new tweets.
+2025-04-29 13:37:37,080 INFO: package: mysql.connector.plugins
+2025-04-29 13:37:37,081 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:37:37,082 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:37:37,101 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:37:38,815 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:37:38,815 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:37:38,816 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:37:38,817 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:37:38,818 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:37:38,818 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:37:38,819 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:37:38,820 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:37:38,820 INFO: Skipping post58944526: empty content
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:37:38,821 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:37:38,822 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:37:38,823 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:37:38,823 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:37:38,824 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:37:38,825 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:37:38,826 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:37:38,826 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:37:38,827 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:37:38,828 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:38:23,335 INFO: package: mysql.connector.plugins
+2025-04-29 13:38:23,336 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:38:23,336 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:38:23,352 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:38:25,051 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:38:25,051 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:38:25,052 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:38:25,052 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:38:25,053 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:38:25,054 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:38:25,055 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:38:25,056 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:38:25,056 INFO: Skipping post58944526: empty content
+2025-04-29 13:38:25,057 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:38:25,057 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:38:25,058 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:38:25,059 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:38:25,059 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:38:25,060 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:38:25,060 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:38:25,061 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:38:25,062 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:38:25,063 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:38:25,063 ERROR: Failed to parse date: Yesterday, 07:17 PM
+2025-04-29 13:38:25,064 INFO: Skipping post58969641: invalid date 'Yesterday, 07:17 PM'
+2025-04-29 13:38:25,064 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-29 13:38:25,072 INFO: Starting Forum_2 at page 35
+2025-04-29 13:38:26,271 INFO: Skipping duplicate post: post58739824
+2025-04-29 13:38:26,272 INFO: Skipping duplicate post: post58739841
+2025-04-29 13:38:26,273 INFO: Skipping duplicate post: post58756598
+2025-04-29 13:38:26,274 INFO: Skipping duplicate post: post58756861
+2025-04-29 13:38:26,275 INFO: Skipping duplicate post: post58756972
+2025-04-29 13:38:26,275 INFO: Skipping duplicate post: post58757347
+2025-04-29 13:38:26,276 INFO: Skipping duplicate post: post58759310
+2025-04-29 13:38:26,277 INFO: Skipping duplicate post: post58759495
+2025-04-29 13:38:26,277 INFO: Skipping duplicate post: post58780300
+2025-04-29 13:38:26,278 INFO: Skipping duplicate post: post58780541
+2025-04-29 13:38:26,279 INFO: Skipping duplicate post: post58846992
+2025-04-29 13:38:26,280 INFO: Skipping duplicate post: post58847773
+2025-04-29 13:38:26,281 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-29 13:38:26,282 INFO: Starting Twitter scraper
+2025-04-29 13:38:26,415 INFO: Fetching tweets from 2025-04-27T21:20:53Z to 2025-04-29T19:37:26Z
+2025-04-29 13:38:26,808 INFO: Inserted 3 new tweets.
+2025-04-29 13:45:15,606 INFO: package: mysql.connector.plugins
+2025-04-29 13:45:15,607 INFO: plugin_name: caching_sha2_password
+2025-04-29 13:45:15,608 INFO: AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-04-29 13:45:15,625 INFO: Starting Forum_1 at page 1590
+2025-04-29 13:45:17,427 INFO: Skipping duplicate post: post58944442
+2025-04-29 13:45:17,428 INFO: Skipping duplicate post: post58944443
+2025-04-29 13:45:17,429 INFO: Skipping duplicate post: post58944445
+2025-04-29 13:45:17,430 INFO: Skipping duplicate post: post58944446
+2025-04-29 13:45:17,431 INFO: Skipping duplicate post: post58944453
+2025-04-29 13:45:17,432 INFO: Skipping duplicate post: post58944454
+2025-04-29 13:45:17,433 INFO: Skipping duplicate post: post58944463
+2025-04-29 13:45:17,434 INFO: Skipping duplicate post: post58944517
+2025-04-29 13:45:17,435 INFO: Skipping post58944526: empty content
+2025-04-29 13:45:17,435 INFO: Skipping duplicate post: post58944873
+2025-04-29 13:45:17,436 INFO: Skipping duplicate post: post58945197
+2025-04-29 13:45:17,436 INFO: Skipping duplicate post: post58945208
+2025-04-29 13:45:17,437 INFO: Skipping duplicate post: post58945374
+2025-04-29 13:45:17,438 INFO: Skipping duplicate post: post58948459
+2025-04-29 13:45:17,439 INFO: Skipping duplicate post: post58949209
+2025-04-29 13:45:17,440 INFO: Skipping duplicate post: post58949222
+2025-04-29 13:45:17,441 INFO: Skipping duplicate post: post58950038
+2025-04-29 13:45:17,442 INFO: Skipping duplicate post: post58959526
+2025-04-29 13:45:17,443 INFO: Skipping duplicate post: post58960443
+2025-04-29 13:45:17,443 INFO: Skipping duplicate post: post58960898
+2025-04-29 13:45:17,444 INFO: Skipping duplicate post: post58962520
+2025-04-29 13:45:17,445 ERROR: Failed to parse date: Yesterday, 07:17 PM
+2025-04-29 13:45:17,446 INFO: Skipping post58969641: invalid date 'Yesterday, 07:17 PM'
+2025-04-29 13:45:17,446 INFO: [Forum_1][Page 1590] 0 new posts; stopping.
+2025-04-29 13:45:17,455 INFO: Starting Forum_2 at page 35
+2025-04-29 13:45:18,503 INFO: Skipping duplicate post: post58739824
+2025-04-29 13:45:18,504 INFO: Skipping duplicate post: post58739841
+2025-04-29 13:45:18,505 INFO: Skipping duplicate post: post58756598
+2025-04-29 13:45:18,505 INFO: Skipping duplicate post: post58756861
+2025-04-29 13:45:18,506 INFO: Skipping duplicate post: post58756972
+2025-04-29 13:45:18,507 INFO: Skipping duplicate post: post58757347
+2025-04-29 13:45:18,507 INFO: Skipping duplicate post: post58759310
+2025-04-29 13:45:18,508 INFO: Skipping duplicate post: post58759495
+2025-04-29 13:45:18,508 INFO: Skipping duplicate post: post58780300
+2025-04-29 13:45:18,509 INFO: Skipping duplicate post: post58780541
+2025-04-29 13:45:18,509 INFO: Skipping duplicate post: post58846992
+2025-04-29 13:45:18,510 INFO: Skipping duplicate post: post58847773
+2025-04-29 13:45:18,510 INFO: [Forum_2][Page 35] 0 new posts; stopping.
+2025-04-29 13:45:18,511 INFO: Starting Twitter scraper
+2025-04-29 13:45:18,632 INFO: Fetching tweets from 2025-04-28T17:04:38Z to 2025-04-29T19:44:18Z
+2025-04-29 13:45:19,000 INFO: Inserted 0 new tweets.
